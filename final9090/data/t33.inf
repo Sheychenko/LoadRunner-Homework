@@ -1,0 +1,11 @@
+[t33]
+FileName1=t33_1.json
+URL1=https://mc.yandex.ru/watch/3/1?wmode=7&page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fretpath%3Dhttps%253A%252F%252Fmail.yandex.ru%26origin%3Dmail360&page-ref&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Avf%3Afqngs4ku2ry4ydu78wzu8osbsm7%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru%3Av%3A1551%3Acn%3A1%3Adp%3A0%3Als%3A32715450324%3Ahid%3A268403425%3Az%3A180%3Ai%3A20250103135019%3Aet%3A1735901419%3Ac%3A1%3Arn%3A656216124%3Arqn%3A1%3Au%3A1735901419877300485%3Aw%3A1241x1281%3As%3A2560x1440x24%3Ask%3A1%3Afp%3A1802%3Ads%3A0%2C1%2C89%2C298%2C463%2C455%2C1%2C1250%2C0%2C%2C%2C%2C2102%3Aco%3A0%3Acpf%3A1%3Ans%3A1735901413396%3Ast%3A1735901419&t=mc%28p-4-g-1%29clc%280-0-0%29rqnt%281%29aw%281%29rcm%281%29yu%289903672511735901413%29cdl%28na%29eco%2832768%29ti%281%29
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_26.xml
+RequestHeaderFile=t33_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t33_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

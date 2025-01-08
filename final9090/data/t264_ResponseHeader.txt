@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Fri, 03 Jan 2025 10:56:45 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 964
+Connection: keep-alive
+Server: Kestrel
+Cache-Control: max-age=0, private
+Request-Context: appId=cid-v1:bfca7677-1085-441f-ad4f-fa34780a8abf
+

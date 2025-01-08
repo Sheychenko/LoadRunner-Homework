@@ -1,0 +1,13 @@
+HTTP/1.0 200 Ok
+X-Yandex-Req-Id: 1735901799044916-11176912888258662714-balancer-l7leveler-kubr-yp-klg-204-BAL
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Cache-Control: no-cache
+Content-Length: 43
+Content-Type: image/gif
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+Access-Control-Allow-Origin: https://yandex.ru
+X-Content-Type-Options: nosniff
+Connection: Keep-Alive
+Access-Control-Allow-Credentials: true
+

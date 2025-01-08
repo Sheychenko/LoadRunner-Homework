@@ -1,0 +1,20 @@
+POST https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=7:7nSnCEy-mNkHvEl_Z5NWmg5_S6JWQ9r1afy79sFNDp0&cup2hreq=ba867eaea91d769d49fdef48e9148fc93a43c3bcd2681bf8118a777486395be2 HTTP/1.1
+X-Microsoft-Update-AppId: eeobbhfgfagbclfofmgbdfoicabjdbkn,oankkpibpaokgecfckkdkgaoafllipag,kpfehajjjbbcifeehjgfgnabifknmdad,pghocgajpebopihickglahgebcmkcekh,ohckeflnhegojcjlcpbfpciadgikcohk,fppmbhmldokgmleojlplaaodlkibgikh,alpjnmnfbgfkmmpcfpejmmoebdndedno,ojblfafjmiikbkepnnolpgbbhejhlcim,ndikpojcjlepofdkaaldkinkjbeeebkl,fgbafbciocncjfbbonhocjaohoknlaco,jbfaflocpnkhbgcijpkiafdpbjkedane,ahmaebgpfccdhgidjaidaoojjcijckba,pbdgbpmpeenomngainidcjmopnklimmf,mpicjakjneaggahlnmbojhjpnileolnb,kmkacjgmmfchkbeglfbjjeidfckbnkca,ebkkldgijmkljgglkajkjgedfnigiakk,mkcgfaeepibomfapiapjaceihcojnphg,lkkdlcloifjinapabfonaibjijloebfb,plbmmhnabegcabfbcejohgjpkamkddhn,llmidpclgepbgbgoecnhcmgfhmfplfao,omnckhpgfmaoelhddliebabpgblmmnjp,jcmcegpcehdchljeldgmmfbgcpnmgedo,lfmeghnikdkbonehgjihjebgioakijgn,hjaimielcgmceiphgjjfddlgjklfpdei,gllimckfbolmioaaihpppacjccghejen,cllppcmmlnkggcmljjfigkcigaajjmid,oghefchejbbgepkneeedmklffjpbaiaa,pdfjdcjjjegpclfiilihfkmdfndkneei
+X-Microsoft-Update-Interactivity: bg
+X-Microsoft-Update-Service-Cohort: 6411
+X-Microsoft-Update-Updater: msedge-131.0.2903.112
+Content-Type: application/json
+Sec-Mesh-Client-Edge-Version: 131.0.2903.112
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.22631
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept-Encoding: gzip, deflate, zstd
+Host: edge.microsoft.com
+Content-Length: 13871
+

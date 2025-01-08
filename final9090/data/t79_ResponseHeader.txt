@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Content-Length: 2739
+Content-Security-Policy: default-src 'none'; frame-ancestors https://*.yandex.ru https://yandex.ru https://*.ya.ru https://ya.ru; connect-src 'self'; script-src 'nonce-cffd75ba10af06ddb87436a28429493a' 'self'; img-src 'self'
+Content-Type: text/html; charset=utf-8
+Date: Fri, 03 Jan 2025 10:52:49 GMT
+ETag: W/"ab3-bv9moIbtC8PnaNFT1ik1B+2K4Uw"
+Expires: 0
+Pragma: no-cache
+Referrer-Policy: origin
+Set-Cookie: ys=udn.cDpiZWxrYXRlc3RpdA%3D%3D#c_chck.1896820028; Domain=.yandex.ru; Secure; Path=/; SameSite=None,mda2_domains=ya.ru; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; Path=/
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+Surrogate-Control: no-store
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-E: d
+X-XSS-Protection: 1; mode=block
+

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Type: application/octet-stream
+Content-Encoding: gzip
+Vary: Accept-Encoding
+mise-correlation-id: f6a93430-2284-46ea-af19-3cf1e73f5111
+MS-CV: QtzpzvFzHmDRHLO3v6Bzxu.0
+X-AFS-Tracking: cV=QtzpzvFzHmDRHLO3v6Bzxu.0;server=GENERAL0100001N;cloudType=Consumer;environment=Prod_WestEurope_000l;migrationStage=NotStarted
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 21B740882D324BDCAED79895575CB01F Ref B: STOEDGE1010 Ref C: 2025-01-03T10:54:28Z
+Date: Fri, 03 Jan 2025 10:54:28 GMT
+

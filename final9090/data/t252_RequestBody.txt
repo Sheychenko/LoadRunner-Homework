@@ -1,0 +1,4 @@
+"/reqid=1735901797878608-15476405479886952973-balancer-l7leveler-kubr-yp-klg-131-BAL/path=690.2"
+"096.2877/slots=1111484,0,72/vars=rum_id=ru.user-id,-project=user-id,-env=production,-platform="
+"desktop,143.2129=1735901797692,1701=first-input,207.2154=4808,207.1428=4808.6,2877=0.6,-cdn=un"
+"known/cts=1735901802500/*"

@@ -1,0 +1,20 @@
+POST https://sso.ya.ru/sync?uuid=9d957ab5-6983-44a3-9dd0-d1e3dc323ed7&finish=https%3A%2F%2Fmail.yandex.ru HTTP/1.1
+Cache-Control: max-age=0
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Origin: https://sso.passport.yandex.ru
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Referer: https://sso.passport.yandex.ru/
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru
+Host: sso.ya.ru
+Content-Length: 2073
+Connection: Keep-Alive
+

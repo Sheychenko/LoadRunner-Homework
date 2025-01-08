@@ -1,0 +1,15 @@
+[t63]
+FileName1=t63.gif
+URL1=https://yandex.ru/clck/click
+Total=2
+RequestHeaderFile=t63_RequestHeader.txt
+RequestBodyFile=t63_RequestBody.txt
+ResponseHeaderFile=t63_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_56.xml
+FileName2=t63_784657.gif
+URL2=https://mc.yandex.ru/clmap/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Fwelcome%3Fretpath%3Dhttps%253A%252F%252Fmail.yandex.ru%26origin%3Dmail360&pointer-click=rn%3A584445765%3Ax%3A9846%3Ay%3A21942%3At%3A1479%3Ap%3A%3FAA2AFAAA2A1AAA1A1AA%3AX%3A516%3AY%3A755&browser-info=u%3A1735901419877300485%3Av%3A1551%3Avf%3Afqngs4ku2ry4ydu78wzu8osbsm7%3Arqnl%3A1%3Ast%3A1735901567&t=gdpr(8-0)ti(1)
+[ProtocolInfo]
+ProtocolId=QTWeb

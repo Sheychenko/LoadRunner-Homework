@@ -1,0 +1,12 @@
+POST /registration-validations/auth/multi_step/start HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: https://passport.yandex.ru/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept-Encoding: gzip
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: passport.yandex.ru
+Cookie: uniqueuid=895449351736271305; _yasc=NpsIhCvxz8rm0uLxSv0EZm7T4h7QSQpR0Sns/HYbX1POVHNYQYPhYPbdGwXwQGkwpQ==; i=XiDjnENexzRg3mOTgDCp7hCK76jvDSBZyEYeaqReGmWhCyTE/npGRnn0HPGARt3fWD/MeLHpG5E5257WJ3U/Xja6z0g=; yandexuid=6304189941736271305; yashr=5017083411736271305
+Content-Length: 355
+

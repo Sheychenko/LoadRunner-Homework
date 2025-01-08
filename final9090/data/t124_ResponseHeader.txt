@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: content-type
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Access-Control-Max-Age: 1728000
+Content-Encoding: gzip
+Date: Fri, 03 Jan 2025 10:53:04 GMT
+Set-Cookie: i=92Pr/kX3nSr//nQvqWhCdb5j+2Lur3A/0WS/NndMyW3imt1dLl8M90XvFjdLI44ZCroT2abmHRSs2GqWXmIVR2T+UZQ=; Expires=Sun, 03-Jan-2027 10:53:04 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly; SameSite=None,yandexuid=2443393631735901584; Expires=Sun, 03-Jan-2027 10:53:04 GMT; Domain=.yandex.ru; Path=/; Secure; SameSite=None,yashr=9677567481735901584; Path=/; Domain=.yandex.ru; Expires=Sat, 03 Jan 2026 10:53:04 GMT; SameSite=None; Secure; HttpOnly,bh=YJCD37sGaiHcyuH/CJLYobEDn8/h6gP7+vDnDev//fYPpJjNhwiF7AM=; Path=/; Domain=.yandex.ru; Expires=Sat, 07 Feb 2026 10:53:04 GMT; SameSite=None; Secure
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+X-XSS-Protection: 1; mode=block
+

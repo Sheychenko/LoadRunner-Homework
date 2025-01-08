@@ -1,0 +1,13 @@
+HTTP/1.0 200 Ok
+Access-Control-Allow-Origin: https://mail.yandex.ru
+X-Content-Type-Options: nosniff
+X-Yandex-Req-Id: 1735901721361181-11808432696056355665-balancer-l7leveler-kubr-yp-klg-131-BAL
+Content-Length: 43
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+Access-Control-Allow-Credentials: true
+Content-Type: image/gif
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+Cache-Control: no-cache
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Connection: Keep-Alive
+

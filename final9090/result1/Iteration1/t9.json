@@ -1,0 +1,1 @@
+{"status":"ok","primary_alias_type":1,"csrf_token":"611561e3b799b9306eea54d8e7ad1b6f","magic_link_email":"belkatestit@yandex.ru","track_id":"0f3925be49af1f92cbdd98d9e85c0ae999","can_authorize":true,"auth_methods":["password","magic_link","magic_x_token"],"preferred_auth_method":"password","is_rfc_2fa_enabled":false}

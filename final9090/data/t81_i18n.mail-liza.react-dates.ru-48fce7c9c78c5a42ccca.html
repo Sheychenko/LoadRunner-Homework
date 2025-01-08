@@ -1,0 +1,1 @@
+(window.webpack=window.webpack||[]).push([["i18n.mail-liza.react-dates.ru"],{"./locales/i18n/mail-liza/react-dates/formatDBinHM/ru.tsx":function(a,i,t){t.r(i);i.default=function(a){return a.date+" в "+a.time}}}]);

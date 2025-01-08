@@ -1,0 +1,16 @@
+GET https://mc.yandex.ru/metrika/metrika_match.html HTTP/1.1
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://passport.yandex.ru/
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru
+Cookie: i=6mMqpHzKpL4P6wgzu+0jaFsDjkI71VtLYiSQ6ktZqq1fwZYPsbW+DVBD4OoOWvHjtjuCZLTHNOwpVLESiMn+PRGg5t0=; yandexuid=9903672511735901413; yashr=4069131091735901413; _yasc=9ar5DWnTSW1gbXbrcxfgPB3D9yc2rx5Lh3VLXSHuQxGX50uDaX7JN2WXt9i04K5BvD07; receive-cookie-deprecation=1; bh=EkIiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsICJDaHJvbWl1bSI7dj0iMTMxIiwgIk5vdF9BIEJyYW5kIjt2PSIyNCIqAj8wOgkiV2luZG93cyJg64HfuwZqIdzK4f8IktihsQOfz+HqA/v68OcN6//99g+kmM2HCIXsAw==
+Host: mc.yandex.ru
+

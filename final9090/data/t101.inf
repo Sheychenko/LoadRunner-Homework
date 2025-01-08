@@ -1,0 +1,15 @@
+[t101]
+FileName1=t101.json
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=filters
+Total=3
+RequestHeaderFile=t101_RequestHeader.txt
+RequestBodyFile=t101_RequestBody.txt
+ResponseHeaderFile=t101_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_94.xml
+FileName2=t101_63d9be1e7c3864195c07-34.html
+URL2=https://yastatic.net/s3/liza/_/63d9be1e7c3864195c07-34.js
+FileName3=t101_c0d191884b98355c8e4a-38.html
+URL3=https://yastatic.net/s3/liza/_/c0d191884b98355c8e4a-38.js
+[ProtocolInfo]
+ProtocolId=QTWeb

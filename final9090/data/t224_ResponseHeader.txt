@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Timing-Allow-Origin: *
+Expires: Fri, 03 Jan 2025 10:55:01 GMT
+X-Content-Type-Options: nosniff
+Pragma: no-cache
+Access-Control-Allow-Credentials: true
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+X-XSS-Protection: 1; mode=block
+Last-Modified: Fri, 03 Jan 2025 10:55:01 GMT
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Content-Encoding: gzip
+Date: Fri, 03 Jan 2025 10:55:01 GMT
+X-Yandex-Req-Id: 1735901700996796-8313498327535064628-balancer-l7leveler-kubr-yp-klg-131-BAL
+

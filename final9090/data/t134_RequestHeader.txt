@@ -1,0 +1,19 @@
+POST https://yandex.ru/an/rtbcount/1TmuXERo0Ma200000000U9nJVBhcOk7QbmMTXW7iBMMT4yxyikmxM9xE00IUC97GQL7XmR5jcOmCgOn0ySm0zWsP8F7IKWu6XjghGA5MHX0vap7cBqW10yD2Hf4s26ibdBKHH6rW1X9x6QUuoZ4S1SkSPGG9NmMJTnaPP1GP_ZBEOc9WcCi44ZdBz1y8hZAv0Tclc0IwkkF_1B0pCFozeILwMekDuIyJ5yXoPbOWsSki22IdCeEqpMKs1raDiei3R3LpHA1fQNxmXBQJp33_NWMhl0icVp8xEF537CxI_Fy8sBqhMExyOj_1mdI0vJyCC9vaiTvsaPlHAcBD1PRMJ-t7poqvrIrnamMia-63_KCuwoqBo6yBM0LFihOm2u45Bx0sW03ZJLQO2xwoWWpjO6jWcS3szEQnlkjRT-teP9p1TkLmy0AsQU_UFD-nx-ccu9LiC4CFiBcVO6D-nCRZ76hbb5rYu1bULcx-4ouzaHt6ciNERcXeOMnkQh61dMa7E-C9Tl47x2kl_PxpSLdlSQCVx3mT75KJE1WNS01zk89ZIW_R1X2nWuFn5WT642_WR61UmJcJSGEdzWbEnWkSJ2yu6JzmClxWP5p01TBETU2Fw4TGB30u9FvmQEI6iJh1h0DN_pjSu6vfQ5hX200-1yrN?test-tag=29&rnd=3689869975418&confirmRatio=1000000&ctime=1735901586494&banner-sizes=eyI3MjA1NzYxMDI0NTEwMjQ3MyI6IjY5N3gzMiJ9&partner-stat-id=70&confirmTime=2101000&width=697&height=32&top-screen-block-area=22304&top-screen-block-area-portion=0.01403&banner-test-tags=eyI3MjA1NzYxMDI0NTEwMjQ3MyI6IjI4MTUwMDc0NjgzMzkzNiJ9&constructor-rendered-assets=eyI3MjA1NzYxMDI0NTEwMjQ3MyI6NTM2ODc5OTE5fQ&rendered-direct-assets=eyI3MjA1NzYxMDI0NTEwMjQ3MyI6MTA0ODYzN30 HTTP/1.1
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: */*
+Origin: https://mail.yandex.ru
+PreferAnonymous: 1
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.yandex.ru/
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru
+Cookie: i=6mMqpHzKpL4P6wgzu+0jaFsDjkI71VtLYiSQ6ktZqq1fwZYPsbW+DVBD4OoOWvHjtjuCZLTHNOwpVLESiMn+PRGg5t0=; yandexuid=9903672511735901413; yashr=4069131091735901413; receive-cookie-deprecation=1; yuidss=9903672511735901413; ymex=2051261420.yrts.1735901420; gdpr=0; _ym_uid=1735901419877300485; _ym_d=1735901421; _ym_isad=2; _ym_visorc=b; Session_id=3:1735901567.5.0.1735901567818:0aAYXw:d6e6.1.2:1|2064807418.0.2.3:1735901567|3:10300727.95854._mLMedKOxRxk3RbOt1a4VwVRJTg; sessar=1.1197.CiBUupGYDWb_bcC4VwS1BSemAM4gHgXcNP5Q-x2PTtilxQ.bPgT4QU6TdWcZduzc5pnQ-zzMtcdz9Po9q5uQIpZBo8; sessionid2=3:1735901567.5.0.1735901567818:0aAYXw:d6e6.1.2:1|2064807418.0.2.3:1735901567|3:10300727.95854.fakesign0000000000000000000; yp=2051261567.udn.cDpiZWxrYXRlc3RpdA%3D%3D; L=BghyXnUFZVpfU1JzYXBWXw52agR/RnEFWzQ2BgwjMQQ+Ohs=.1735901567.16005.369034.828bf3dc6ea7a4e5d5691af66e0b39fa; yandex_login=belkatestit; ys=udn.cDpiZWxrYXRlc3RpdA%3D%3D#c_chck.1896820028; is_gdpr=0; is_gdpr_b=CJfOVRDlpwIoAg==; _yasc=YHyF38GQ4YfYyiVYfh0fgMRf95w8haijgvSk9jVQevv1d3fQ6+hjYMir6Hya7OTZSwfENstDGw==; yabs-vdrf=A0; bh=EkIiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsICJDaHJvbWl1bSI7dj0iMTMxIiwgIk5vdF9BIEJyYW5kIjt2PSIyNCIqAj8wOgkiV2luZG93cyJgkIPfuwZqIdzK4f8IktihsQOfz+HqA/v68OcN6//99g+kmM2HCIXsAw==
+Host: yandex.ru
+Content-Length: 0
+Connection: Keep-Alive
+

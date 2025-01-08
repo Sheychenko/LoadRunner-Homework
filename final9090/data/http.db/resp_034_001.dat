@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.17.9
+Date: Fri, 03 Jan 2025 10:37:59 GMT
+Content-Type: image/svg+xml
+Content-Length: 719
+Connection: keep-alive
+Keep-Alive: timeout=5
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Cache-Control: public, immutable, max-age=216013
+Content-Encoding: gzip
+Etag: "e985d421b5ec85453dd2b27358a29ce3"
+Expires: Sun, 05 Jan 2025 22:38:00 GMT
+Last-Modified: Thu, 26 Dec 2024 11:34:55 GMT
+NEL: {"report_to": "network-errors",

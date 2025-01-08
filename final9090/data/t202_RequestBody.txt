@@ -1,0 +1,5 @@
+"{\"Events\":[{\"CommonData\":{\"PassportUID\":\"2064807418\",\"PageID\":\"92550\",\"UniqID\":\""
+"9903672511735901413\",\"UniqIDSource\":\"YANDEXUID_COOKIE\",\"HitLogID\":\"1807200352013045128"
+"0\",\"Duid\":\"1735901419877300485\",\"RtbBidReqID\":\"18072003520269911888\",\"ImpID\":\"2165"
+"\",\"CryptaIDv2\":\"12418739748641814075\"},\"VariedData\":[{\"ConfirmationType\":\"container_"
+"in_viewport_after_response\"}]}]}"

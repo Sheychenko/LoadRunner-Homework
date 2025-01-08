@@ -1,0 +1,11 @@
+[t79]
+FileName1=t79.htm
+URL1=https://sso.passport.yandex.ru/prepare?uuid=9d957ab5-6983-44a3-9dd0-d1e3dc323ed7&goal=https%3A%2F%2Fya.ru%2F&finish=https%3A%2F%2Fmail.yandex.ru
+Total=1
+RequestHeaderFile=t79_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t79_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_72.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

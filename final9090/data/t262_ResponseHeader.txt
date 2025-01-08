@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Content-Length: 2428
+Content-Security-Policy: default-src 'none'; frame-ancestors https://*.yandex.ru https://yandex.ru https://*.ya.ru https://ya.ru; connect-src 'self'; script-src 'nonce-1c3bfcae26913abcb031e0b3e471be7c' 'self'; img-src 'self'
+Content-Type: text/html; charset=utf-8
+Date: Fri, 03 Jan 2025 10:56:44 GMT
+ETag: W/"97c-G1UOLdrOYcwPdpOiovpEbj4oFlk"
+Expires: 0
+Pragma: no-cache
+Referrer-Policy: origin
+Set-Cookie: Session_id=noauth:1735901804; Domain=.ya.ru; HttpOnly; Max-Age=7200; Path=/; SameSite=None; Secure,sessar=1.1197.CiAUIrAuZ7RIR3TEYSNfEDdz6byksRPbsDJbUyDeKzNkKg.eMPjnrBQDLDrme0Fy-XP81iKpCcBYXTSPb2Yt7AuwSo; Domain=.ya.ru; HttpOnly; Max-Age=7200; Path=/; SameSite=None; Secure,yandex_login=; Domain=.ya.ru; Max-Age=31536000; Path=/; SameSite=None; Secure,yp=2051261804.multib.1; Domain=.ya.ru; expires=Tue, 19 Jan 2038 03:14:07 GMT; Path=/; SameSite=None; Secure,ys=udn.cDpiZWxrYXRlc3RpdA%3D%3D#c_chck.1444856378; Domain=.ya.ru; Path=/; SameSite=None; Secure,i=6mMqpHzKpL4P6wgzu+0jaFsDjkI71VtLYiSQ6ktZqq1fwZYPsbW+DVBD4OoOWvHjtjuCZLTHNOwpVLESiMn+PRGg5t0=; Domain=.ya.ru; expires=Mon, 01 Jan 2035 10:56:44 GMT; HttpOnly; Path=/; SameSite=None; Secure,yandexuid=9903672511735901413; Domain=.ya.ru; expires=Mon, 01 Jan 2035 10:56:44 GMT; Path=/; SameSite=None; Secure,L=BghyXnUFZVpfU1JzYXBWXw52agR/RnEFWzQ2BgwjMQQ+Ohs=.1735901567.16005.369034.828bf3dc6ea7a4e5d5691af66e0b39fa; Domain=.ya.ru; expires=Tue, 19 Jan 2038 03:14:07 GMT; Path=/,mda2_beacon=1735901804399; Domain=.ya.ru; expires=Tue, 19 Jan 2038 03:14:07 GMT; Path=/; SameSite=None; Secure
+Surrogate-Control: no-store
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-E: d
+X-XSS-Protection: 1; mode=block
+

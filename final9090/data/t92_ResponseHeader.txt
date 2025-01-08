@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: YaWEBServer/2.0.0
+Date: Fri, 3 Jan 2025 10:53:00 GMT
+Access-Control-Allow-Origin: *
+Y-Context: 0repwRmGPSw0
+Connection: keep-alive
+Content-Type: text/html
+Content-Length: 87
+

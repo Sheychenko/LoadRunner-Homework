@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 202
+Content-Type: application/json; charset=utf-8
+Content-Security-Policy: base-uri 'self';block-all-mixed-content;default-src 'self';img-src 'self';object-src 'none';script-src 'none';style-src 'self';upgrade-insecure-requests;
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: E7500CC58F594628B6CD810611A0AE35 Ref B: STOEDGE0908 Ref C: 2025-01-03T10:49:19Z
+Date: Fri, 03 Jan 2025 10:49:19 GMT
+

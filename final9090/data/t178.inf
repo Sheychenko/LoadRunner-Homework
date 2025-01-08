@@ -1,0 +1,11 @@
+[t178]
+FileName1=t178.json
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=abook-contact
+Total=1
+RequestHeaderFile=t178_RequestHeader.txt
+RequestBodyFile=t178_RequestBody.txt
+ResponseHeaderFile=t178_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_171.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

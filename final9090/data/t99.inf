@@ -1,0 +1,15 @@
+[t99]
+FileName1=t99.json
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=collectors
+Total=3
+RequestHeaderFile=t99_RequestHeader.txt
+RequestBodyFile=t99_RequestBody.txt
+ResponseHeaderFile=t99_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_92.xml
+FileName2=t99_09166b971d68524f129f-23.html
+URL2=https://yastatic.net/s3/liza/_/09166b971d68524f129f-23.js
+FileName3=t99_dc22b778f507cf99af5f1fbaa09283ad-message.ogg.html
+URL3=https://yastatic.net/s3/liza/_/dc22b778f507cf99af5f1fbaa09283ad-message.ogg
+[ProtocolInfo]
+ProtocolId=QTWeb

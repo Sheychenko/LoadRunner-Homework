@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Content-Length: 172
+Content-Security-Policy: default-src 'none';style-src 'self' yastatic.net 'unsafe-inline' 'unsafe-eval' s3.mds.yandex.net s3.mdst.yandex.net;script-src 'self' yastatic.net mc.admetrica.ru mc.yandex.ru mc.admetrica.com mc.yandex.com chat.s3.yandex.net api-maps.yandex.ru suggest-maps.yandex.net export.yandex.ru 'unsafe-eval' 'unsafe-inline' 'nonce-9da29f1f-a37a-46ed-92a9-d291daa1b5f6' https://yastatic.net/s3/frontend/butterfly/latest/butterfly.js;img-src 'self' yastatic.net https://ysa-static.passport.yandex.ru https://ysa-static.passport.yandex.net yandex.st data: mc.admetrica.ru mc.yandex.ru mc.admetrica.com mc.yandex.com api-maps.yandex.ru *.captcha.yandex.net s3.mds.yandex.net s3.mdst.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net clck.yandex.ru *.maps.yandex.net yapic.yandex.ru img.yandex.ru static-maps.yandex.ru https://video-tub-ru.yandex.net https://img0-tub-ru.yandex.net https://img1-tub-ru.yandex.net https://img2-tub-ru.yandex.net https://img3-tub-ru.yandex.net yango.com blob:  mc.webvisor.com mc.webvisor.org https://downloader.disk.yandex.ru;font-src 'self' data: yastatic.net;object-src yastatic.net;media-src *.captcha.yandex.net data: yastatic.net;connect-src mail.yandex.ru 'self' mc.admetrica.ru mc.yandex.ru mc.admetrica.com mc.yandex.com trust.yandex.ru trust.yandex.com suggest-maps.yandex.net mc.webvisor.com mc.webvisor.org yandex.ru api.passport.yandex.ru *.disk.yandex.net;frame-ancestors 'self';frame-src 'self' yandex.st s4.money.yandex.net https://yandex.ru/chat split.yandex.ru yastatic.net yandex.ru  sso.passport.yandex.ru sso.ya.ru pass.yandex.ru magic.passport.yandex.ru passport.yandex.ru https://trust.yandex.ru blob: mc.admetrica.ru mc.yandex.ru mc.admetrica.com mc.yandex.com https://yandex.ru/forms https://forms.yandex.ru/;child-src 'self' yandex.st yandex.ru  passport.yandex.ru pass.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru;report-uri https://csp.yandex.net/csp?from=passport&project=passport&yandex_login=&yandexuid=6304189941736271305;manifest-src 'self' yastatic.net
+Content-Type: application/json; charset=utf-8
+Date: Tue, 07 Jan 2025 17:35:08 GMT
+ETag: W/"ac-vgP9GfNPBdg0qhkkbryif11CPuM"
+Expires: 0
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Pragma: no-cache
+Referrer-Policy: origin
+Set-Cookie: Session_id=3:1736271308.5.0.1736271308329:0aAYXw:3dad.1.2:1|2064807418.0.2.3:1736271308|3:10300933.535712.yfriAhTp8jLdWDTbnLiusECWYbc; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; HttpOnly; Path=/; SameSite=None
+Set-Cookie: sessar=1.1197.CiD6P8xkTFiGC6vDPp3IumLMLs09LrOhpRbdRhIlxysHzA.TDJnnr2MdamzLvaR1cji8UCro8wU2a2A0x6eaNr2BRQ; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; HttpOnly; Path=/; SameSite=None
+Set-Cookie: sessionid2=3:1736271308.5.0.1736271308329:0aAYXw:3dad.1.2:1|2064807418.0.2.3:1736271308|3:10300933.535712.fakesign0000000000000000000; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; HttpOnly; Path=/; SameSite=None
+Set-Cookie: sessguard=1.1736271308.1736271308329:0aAYXw:3dad..3.500:50171.86XFxuya.0mR7mc2sHlgzYnd-1sRmd7C1aAk; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; HttpOnly; Path=/; SameSite=None
+Set-Cookie: yp=2051631308.udn.cDpiZWxrYXRlc3RpdA%3D%3D; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; Path=/; SameSite=None
+Set-Cookie: ys=udn.cDpiZWxrYXRlc3RpdA%3D%3D; Domain=.yandex.ru; Secure; Path=/; SameSite=None
+Set-Cookie: L=cjtSY3d0QF9qUn55Q3F/RkJKWHtncGwHVgopLVQHKxsAASI=.1736271308.16009.370549.7ee36513910acbd10e10f1dd32a6a7cf; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Path=/
+Set-Cookie: yandex_login=belkatestit; Domain=.yandex.ru; Max-Age=31536000; Secure; Path=/; SameSite=None
+Set-Cookie: lah=2:1799343308.10038295.C4sBt5vsxlLIfaCe.aiJ4JNVhaXs52qJb9FWE9okObW8giIXSDNMgc7araPxuKmJF6UDHdaOT.8-kASFprkkCEXgW0NB9fEg; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; HttpOnly; Path=/; SameSite=None
+Set-Cookie: mda2_beacon=1736271308345; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+Surrogate-Control: no-store
+X-Content-Type-Options: nosniff
+X-D: d
+X-DNS-Prefetch-Control: off
+X-Default-UID: 2064807418
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 0
+

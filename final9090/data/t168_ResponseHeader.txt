@@ -1,0 +1,13 @@
+HTTP/1.0 200 Ok
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+Content-Length: 43
+Connection: Keep-Alive
+X-Content-Type-Options: nosniff
+Content-Type: image/gif
+X-Yandex-Req-Id: 1735901678963195-6449794710495793018-balancer-l7leveler-kubr-yp-klg-220-BAL
+Access-Control-Allow-Credentials: true
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Cache-Control: no-cache
+

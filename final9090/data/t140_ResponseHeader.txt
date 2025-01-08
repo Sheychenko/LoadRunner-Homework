@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Last-Modified: Fri, 03 Jan 2025 10:53:09 GMT
+Content-Encoding: gzip
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Access-Control-Allow-Credentials: true
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+Date: Fri, 03 Jan 2025 10:53:09 GMT
+Expires: Fri, 03 Jan 2025 10:53:09 GMT
+X-Yandex-Req-Id: 1735901589608952-149914412981723819-balancer-l7leveler-kubr-yp-klg-91-BAL
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+X-XSS-Protection: 1; mode=block
+Timing-Allow-Origin: *
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Pragma: no-cache
+

@@ -1,0 +1,16 @@
+HTTP/1.1 200 Ok
+Accept-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Content-Length: 615
+Content-Type: application/json; charset=utf-8
+Date: Fri, 03 Jan 2025 10:53:01 GMT
+Expires: Fri, 03-Jan-2025 10:53:01 GMT
+Last-Modified: Fri, 03-Jan-2025 10:53:01 GMT
+Pragma: no-cache
+Set-Cookie: bh=EkAiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsIkNocm9taXVtIjt2PSIxMzEiLCJOb3RfQSBCcmFuZCI7dj0iMjQiGgUieDg2IiIQIjEzMS4wLjI5MDMuMTEyIioCPzA6CSJXaW5kb3dzIkIIIjE1LjAuMCJKBCI2NCJSXSJNaWNyb3NvZnQgRWRnZSI7dj0iMTMxLjAuMjkwMy4xMTIiLCJDaHJvbWl1bSI7dj0iMTMxLjAuNjc3OC4yMDUiLCJOb3RfQSBCcmFuZCI7dj0iMjQuMC4wLjAiIg==; Expires=Sat, 03-Jan-2026 10:53:01 GMT; Domain=.yandex.ru; Path=/; SameSite=None; Secure
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+

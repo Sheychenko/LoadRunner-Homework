@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Content-Security-Policy: default-src 'none';style-src 'self' yastatic.net 'unsafe-inline' 'unsafe-eval' s3.mds.yandex.net s3.mdst.yandex.net;script-src 'self' yastatic.net mc.admetrica.ru mc.yandex.ru mc.admetrica.com mc.yandex.com chat.s3.yandex.net api-maps.yandex.ru suggest-maps.yandex.net export.yandex.ru 'unsafe-eval' 'unsafe-inline' 'nonce-b3b31f8b-a614-4eb7-96a0-e98d1f52adae' https://yastatic.net/s3/frontend/butterfly/latest/butterfly.js;img-src 'self' yastatic.net https://ysa-static.passport.yandex.ru https://ysa-static.passport.yandex.net yandex.st data: mc.admetrica.ru mc.yandex.ru mc.admetrica.com mc.yandex.com api-maps.yandex.ru *.captcha.yandex.net s3.mds.yandex.net s3.mdst.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net clck.yandex.ru *.maps.yandex.net yapic.yandex.ru img.yandex.ru static-maps.yandex.ru https://video-tub-ru.yandex.net https://img0-tub-ru.yandex.net https://img1-tub-ru.yandex.net https://img2-tub-ru.yandex.net https://img3-tub-ru.yandex.net yango.com blob:  mc.webvisor.com mc.webvisor.org https://downloader.disk.yandex.ru;font-src 'self' data: yastatic.net;object-src yastatic.net;media-src *.captcha.yandex.net data: yastatic.net;connect-src mail.yandex.ru 'self' mc.admetrica.ru mc.yandex.ru mc.admetrica.com mc.yandex.com trust.yandex.ru trust.yandex.com suggest-maps.yandex.net mc.webvisor.com mc.webvisor.org yandex.ru api.passport.yandex.ru *.disk.yandex.net;frame-ancestors 'self';frame-src 'self' yandex.st s4.money.yandex.net https://yandex.ru/chat split.yandex.ru yastatic.net yandex.ru  sso.passport.yandex.ru sso.ya.ru pass.yandex.ru magic.passport.yandex.ru passport.yandex.ru https://trust.yandex.ru blob: mc.admetrica.ru mc.yandex.ru mc.admetrica.com mc.yandex.com https://yandex.ru/forms https://forms.yandex.ru/;child-src 'self' yandex.st yandex.ru  passport.yandex.ru pass.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru;report-uri https://csp.yandex.net/csp?from=passport&project=passport&yandex_login=&yandexuid=9903672511735901413;manifest-src 'self' yastatic.net
+Content-Type: text/html; charset=utf-8
+Critical-CH: Sec-CH-Prefers-Color-Scheme
+Date: Fri, 03 Jan 2025 10:50:14 GMT
+Expires: 0
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Pragma: no-cache
+Referrer-Policy: origin
+Set-Cookie: uniqueuid=422781241735901413; Max-Age=315360000; Path=/; Expires=Mon, 01 Jan 2035 10:50:13 GMT; HttpOnly; Secure; SameSite=Lax,lah=; Domain=.passport.yandex.ru; Expires=Thu, 01 Jan 1970 00:00:01 GMT; Secure; HttpOnly; Path=/; SameSite=None,_yasc=B58yqsCIg8/lTgeLI8+3WpudELZOYwNCkzFLf3YVBdNJssEOIOp5Tv+NhHOEAsPNWg==; domain=.yandex.ru; path=/; expires=Mon, 01 Jan 2035 10:50:13 GMT; secure,i=6mMqpHzKpL4P6wgzu+0jaFsDjkI71VtLYiSQ6ktZqq1fwZYPsbW+DVBD4OoOWvHjtjuCZLTHNOwpVLESiMn+PRGg5t0=; Expires=Sun, 03-Jan-2027 10:50:13 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly; SameSite=None,yandexuid=9903672511735901413; Expires=Sun, 03-Jan-2027 10:50:13 GMT; Domain=.yandex.ru; Path=/; Secure; SameSite=None,yashr=4069131091735901413; Path=/; Domain=.yandex.ru; Expires=Sat, 03 Jan 2026 10:50:13 GMT; SameSite=None; Secure; HttpOnly
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+Surrogate-Control: no-store
+Vary: Sec-CH-Prefers-Color-Scheme
+X-Content-Type-Options: nosniff
+X-D: d
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 0
+X-Yandex-Passport-Authorize: 1
+

@@ -1,0 +1,11 @@
+GET https://www.bing.com/api/shopping/v1/user/shoppingsettings HTTP/1.1
+Cookie: ANON=; MUID=0640B33335446EE719AFA0BC34336FC4;_RwBf=r=0&ilt=0&ihpd=0&ispd=0&rc=0&rb=0&gb=0&rg=0&pc=0&mtu=0&rbb=0&g=0&cid=&clo=0&v=0&l=0001-01-01T00:00:00.0000000&lft=0001-01-01T00:00:00.0000000&aof=0&ard=0001-01-01T00:00:00.0000000&rwdbt=0001-01-01T00:00:00.0000000&rwflt=0001-01-01T00:00:00.0000000&o=2&p=&c=&t=0&s=0001-01-01T00:00:00.0000000+00:00&ts=2024-05-13T12:47:20.3226855+00:00&rwred=0&wls=2&wlb=0&wle=1&ccp=2&cpt=0&lka=0&lkt=0&aad=0&TH=;
+X-Client-Data: eyIxIjoiMCIsIjEwIjoiIiwiMiI6IjAiLCIzIjoiMCIsIjQiOiI3NDg2OTA4MDk3NTIwODUyOTciLCI1IjoiXCJ2VzJmMlRjbFFqN0V2UW1iemZaQlJiYnpsTkdNcU1VYkFqL3VzSzdlTStnPVwiIiwiNiI6InN0YWJsZSIsIjciOiI2Nzg2MDQ4MzI3NjkiLCI5IjoiZGVza3RvcCJ9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Host: www.bing.com
+

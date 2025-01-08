@@ -1,0 +1,558 @@
+.result_success {
+  color: #070;
+}
+.result_error {
+  color: rgba(255,0,0,0.7);
+}
+.ComposeStackThumb {
+  transition: all 0.5s;
+}
+.ComposeStackThumb_collapsed {
+  transition: all 0.2s;
+  max-width: 0 !important;
+  min-width: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.ComposeStackThumb-Content {
+  transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
+  transition: transform 0.5s, -webkit-transform 0.5s;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.ComposeStackThumb_collapsed .ComposeStackThumb-Content {
+  transition: -webkit-transform 0.2s;
+  transition: transform 0.2s;
+  transition: transform 0.2s, -webkit-transform 0.2s;
+  -webkit-transform: scale(0);
+          transform: scale(0);
+}
+.result_success {
+  color: #070;
+}
+.result_error {
+  color: rgba(255,0,0,0.7);
+}
+.ComposeStackMenu {
+  -webkit-flex: none;
+          flex: none;
+  width: 256px;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  margin-left: 4px;
+}
+.ComposeStackMenu:hover .ComposeStackMenu-Title,
+.ComposeStackMenu_active .ComposeStackMenu-Title,
+.ComposeStackMenu-DraftLink:hover {
+  background-color: #1d2434;
+}
+.ComposeStackMenu_active .ComposeStackMenu-Title {
+  border-radius: 0;
+}
+.ComposeStackMenu-Title,
+.ComposeStackMenu-Content {
+  color: #fff;
+  background-color: #2d374f;
+}
+.ComposeStackMenu-Title {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+          align-items: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 5px 12px 5px 12px;
+  box-sizing: border-box;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 32px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  pointer-events: auto;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  cursor: pointer;
+  height: 36px;
+  font-size: 14px;
+  font-weight: normal;
+}
+.ComposeStackMenu_active .ComposeStackMenu-TitleIcon {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.ComposeStackMenu-TitleText {
+  -webkit-flex: 1 1 auto;
+          flex: 1 1 auto;
+}
+.ComposeStackMenu-TitleIcon {
+  -webkit-flex: none;
+          flex: none;
+  margin-left: 8px;
+  opacity: 0.5;
+}
+.ComposeStackMenu-TitleIcon:hover {
+  opacity: 1;
+}
+.ComposeStackMenu-Marker {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.ComposeStackMenu-Content {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: column nowrap;
+          flex-flow: column nowrap;
+  height: 0;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 8px 8px 0 0;
+  -webkit-transform: translate(0, 100%);
+          transform: translate(0, 100%);
+  transition: -webkit-transform 0.15s;
+  transition: transform 0.15s;
+  transition: transform 0.15s, -webkit-transform 0.15s;
+  pointer-events: all;
+}
+.ComposeStackMenu_active .ComposeStackMenu-Content {
+  height: calc(100% - 32px);
+  -webkit-transform: translate(0, 0);
+          transform: translate(0, 0);
+  overflow: hidden;
+}
+.ComposeStackMenu-Items {
+  height: 100%;
+  overflow: auto;
+}
+.ComposeStackMenu-Item {
+  height: 36px;
+}
+.ComposeStackMenu-ItemContent {
+  padding: 6px 8px !important;
+}
+.ComposeStackMenu-ItemContent_active {
+  background-color: #1d2434 !important;
+  cursor: default;
+}
+.result_success {
+  color: #070;
+}
+.result_error {
+  color: rgba(255,0,0,0.7);
+}
+.composeTooltip {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 5px 9px;
+  border-radius: 4px;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  line-height: 18px;
+  color: #fff;
+  background-color: #3e3e3e;
+  max-width: 450px;
+}
+.composeTooltip::before {
+  content: none;
+}
+.result_success {
+  color: #070;
+}
+.result_error {
+  color: rgba(255,0,0,0.7);
+}
+.ComposeStack {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row-reverse nowrap;
+          flex-flow: row-reverse nowrap;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 36px;
+  box-sizing: border-box;
+  z-index: 900;
+  pointer-events: none;
+}
+.ComposeStack-Item {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  overflow: hidden;
+  pointer-events: auto;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  max-width: 250px;
+  -webkit-flex-basis: 250px;
+          flex-basis: 250px;
+  margin-left: 4px;
+  min-width: 105px;
+  box-sizing: border-box;
+}
+.with-ThemeOverlay:not(.mail-Page_3pane-vertical):not(.mail-Page_3pane-horizontal).webkit .ComposeStack,
+.mail-Page_no_vscroll:not(.mail-Page_3pane-vertical):not(.mail-Page_3pane-horizontal).webkit .ComposeStack {
+  margin-right: 13px;
+}
+.with-ThemeOverlay:not(.mail-Page_3pane-vertical):not(.mail-Page_3pane-horizontal).no-mac.msie .ComposeStack,
+.mail-Page_no_vscroll:not(.mail-Page_3pane-vertical):not(.mail-Page_3pane-horizontal).no-mac.msie .ComposeStack,
+.with-ThemeOverlay:not(.mail-Page_3pane-vertical):not(.mail-Page_3pane-horizontal).no-mac.mozilla .ComposeStack,
+.mail-Page_no_vscroll:not(.mail-Page_3pane-vertical):not(.mail-Page_3pane-horizontal).no-mac.mozilla .ComposeStack {
+  margin-right: 17px;
+}
+.with-ThemeOverlay:not(.mail-Page_3pane-vertical):not(.mail-Page_3pane-horizontal).mac.mozilla .ComposeStack,
+.mail-Page_no_vscroll:not(.mail-Page_3pane-vertical):not(.mail-Page_3pane-horizontal).mac.mozilla .ComposeStack {
+  margin-right: 16px;
+}
+.with-ThemeOverlay:not(.mail-Page_3pane-vertical):not(.mail-Page_3pane-horizontal).no-mac.edge .ComposeStack,
+.mail-Page_no_vscroll:not(.mail-Page_3pane-vertical):not(.mail-Page_3pane-horizontal).no-mac.edge .ComposeStack {
+  margin-right: 15px;
+}
+.mail-Page_404 .ComposeStack {
+  display: none;
+}
+.result_success {
+  color: #070;
+}
+.result_error {
+  color: rgba(255,0,0,0.7);
+}
+.ComposeMetaAvatar_monogram {
+  position: relative;
+}
+.ComposeMetaAvatar_monogram.ComposeMetaAvatar:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: rgba(255,255,255,0.5);
+  mix-blend-mode: soft-light;
+}
+.result_success {
+  color: #070;
+}
+.result_error {
+  color: rgba(255,0,0,0.7);
+}
+.ComposePopup_size_medium {
+  top: 32px !important;
+  bottom: 32px !important;
+  left: calc(50% - 456px) !important;
+  width: 912px;
+}
+@media screen and (max-height: 960px) {
+  .ComposePopup_size_medium {
+    top: 4px !important;
+    bottom: 4px !important;
+  }
+}
+@media screen and (max-width: 940px) {
+  .ComposePopup_size_medium {
+    left: 14px !important;
+    right: 14px !important;
+    width: unset !important;
+  }
+}
+.ComposePopup_size_medium .ComposePopup-Body {
+  overflow-x: auto;
+}
+.ComposePopup_size_medium .ComposePopup-BodyContent {
+  min-width: 912px;
+}
+.ComposePopup_size_small {
+  width: 560px;
+  height: 560px;
+  left: auto !important;
+  top: auto !important;
+  right: 16px !important;
+  bottom: 52px !important;
+}
+.mail-Page_with_Timeline .ComposePopup_size_small {
+  bottom: 83px !important;
+}
+.ComposeManager_hidden .ComposePopup_size_small {
+  bottom: 16px !important;
+}
+.mail-Page_with_Todo .ComposeManager_hidden .ComposePopup_size_small,
+.mail-Page_with_Timeline .ComposeManager_hidden .ComposePopup_size_small {
+  bottom: 47px !important;
+}
+@media screen and (max-width: 592px) {
+  .ComposePopup_size_small {
+    left: 16px !important;
+    width: auto !important;
+  }
+  .ComposePopup_size_small .ComposePopup-Body {
+    overflow-x: auto;
+  }
+}
+@media screen and (max-height: 592px) {
+  .ComposePopup_size_small {
+    top: 16px !important;
+    height: auto !important;
+  }
+}
+@media screen and (max-height: 628px) {
+  .ComposeManager_visible .ComposePopup_size_small {
+    top: 16px !important;
+    height: auto !important;
+  }
+}
+@media screen and (max-height: 623px) {
+  .mail-Page_with_Timeline .ComposePopup_size_small {
+    top: 16px !important;
+    height: auto !important;
+  }
+}
+@media screen and (max-height: 659px) {
+  .mail-Page_with_Timeline .ComposeManager_visible .ComposePopup_size_small {
+    top: 16px !important;
+    height: auto !important;
+  }
+}
+.ComposePopup_size_small .ComposePopup-BodyContent {
+  min-width: 560px;
+}
+.ComposeStack {
+  z-index: 3000;
+}
+.mail-ThemeOverlay {
+  z-index: 3002;
+}
+.ComposePopup_size_large {
+  top: 68px !important;
+  left: auto !important;
+  bottom: 52px !important;
+}
+.mail-Page_with_Timeline .ComposePopup_size_large {
+  bottom: 83px !important;
+}
+.ComposeManager_hidden .ComposePopup_size_large {
+  bottom: 16px !important;
+}
+.mail-Page_with_Todo .ComposeManager_hidden .ComposePopup_size_large,
+.mail-Page_with_Timeline .ComposeManager_hidden .ComposePopup_size_large {
+  bottom: 47px !important;
+}
+@media screen and (max-width: 912px) {
+  .ComposePopup_size_large {
+    left: 0 !important;
+    width: auto !important;
+  }
+  .ComposePopup_size_large .ComposePopup-Body {
+    overflow-x: auto;
+  }
+}
+.mail-Page_minified .ComposePopup_size_large {
+  top: 71px !important;
+}
+@media screen and (max-height: 617px) {
+  .ComposePopup_size_large,
+  .mail-Page_minified .ComposePopup_size_large,
+  .mail-Page_with_Timeline .ComposePopup_size_large,
+  .mail-Page_with_Todo .ComposePopup_size_large,
+  .ComposeManager_hidden .ComposePopup_size_large,
+  .mail-Page_with_Todo .ComposeManager_hidden .ComposePopup_size_large,
+  .mail-Page_with_Timeline .ComposeManager_hidden .ComposePopup_size_large {
+    top: 6px !important;
+    bottom: 6px !important;
+  }
+}
+.ComposePopup_size_large-BodyContent {
+  min-width: 912px;
+}
+@media screen and (max-height: 617px) {
+  .ComposeManager_size_large .ComposeStack {
+    z-index: 1000;
+  }
+}
+.ComposePopup {
+  z-index: 2000;
+  --popup-view-default-fill-color: var(--color-mg-surface-elevated-lvl-2);
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  position: fixed;
+  -webkit-animation: none !important;
+          animation: none !important;
+}
+.ComposePopup-Content {
+  -webkit-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  pointer-events: auto;
+  width: 100%;
+}
+.ComposePopup-Body {
+  -webkit-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.ComposePopup-BodyContent {
+  -webkit-flex: 1 1 auto;
+          flex: 1 1 auto;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.result_success {
+  color: #070;
+}
+.result_error {
+  color: rgba(255,0,0,0.7);
+}
+.composeHeader {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+          align-items: center;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  color: var(--button-view-clear-typo-color-base);
+}
+.composeHeader_activable:hover {
+  cursor: pointer;
+}
+.composeHeader-Avatar {
+  border-radius: 50%;
+  background-image: url(//yastatic.net/s3/liza/_/b8066af4f225b5542d0c2b2f42624f55-unknown-avatar.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.composeHeader-Recipients {
+  margin-left: 4px;
+  opacity: 0.5;
+  font-size: 14px;
+}
+.composeHeader-Text {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex: 1;
+          flex: 1;
+  min-width: 0;
+  font-family: inherit;
+  font-size: 14px;
+}
+.composeHeader-Title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: normal;
+}
+.composeHeader-SavedAt {
+  font-weight: 400;
+  font-size: 14px;
+  -webkit-flex: 0 0 auto;
+          flex: 0 0 auto;
+  font-family: YS Text, Arial, sans-serif;
+  opacity: 0.5;
+}
+.composeHeader-SavedAt:first-letter {
+  text-transform: uppercase;
+}
+.composeHeader-Buttons {
+  margin-left: 4px;
+}
+.composeHeader-SavedAt,
+.composeHeader-Buttons {
+  -webkit-flex: 0 0 auto;
+          flex: 0 0 auto;
+}
+.composeHeader_collapsed {
+  background-color: #2d374f;
+  color: var(--color-typo-inverse);
+  padding: var(--space-3-xs) 6px var(--space-3-xs) 8px;
+}
+.composeHeader_collapsed..composeHeader_activable:hover {
+  background-color: #1d2434;
+}
+.composeHeader_collapsed .composeHeader-Avatar {
+  -webkit-flex: 0 0 24px;
+          flex: 0 0 24px;
+  height: 24px;
+}
+.composeHeader_collapsed .composeHeader-Avatar .mail-Avatar span {
+  font-size: 12px;
+  line-height: 26px;
+}
+.composeHeader_collapsed .composeHeader-Avatar .mail-Avatar {
+  width: 24px;
+  height: 24px;
+}
+.composeHeader_collapsed .composeHeader-Text {
+  line-height: 16px;
+}
+.composeHeader_collapsed .composeHeader-Title:not(:empty) {
+  margin-left: 8px;
+}
+.composeHeader_expanded {
+  padding: 10px 32px 10px 28px;
+  position: relative;
+}
+.composeHeader_expanded.composeHeader:after {
+  position: absolute;
+  bottom: 0;
+  left: 28px;
+  right: 28px;
+  content: ' ';
+  border-bottom: 1px solid rgba(45,55,79,0.15);
+  height: 1px;
+}
+.composeHeader_expanded .composeHeader-Avatar {
+  -webkit-flex: 0 0 32px;
+          flex: 0 0 32px;
+  height: 32px;
+}
+.composeHeader_expanded .composeHeader-Text {
+  line-height: 20px;
+}
+.composeHeader_expanded .composeHeader-SavedAt:not(:empty) {
+  margin-left: 12px;
+}
+.ControlButtons__root--3tqjs {
+    color: inherit;
+}
+.ControlButtons__root--3Bvny {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+}
+.result_success {
+  color: #070;
+}
+.result_error {
+  color: rgba(255,0,0,0.7);
+}
+.ComposeManager-PopupCompose_hidden {
+  visibility: hidden !important;
+}
+.ComposeManager-PopupCompose_hidden .popup2 {
+  visibility: hidden !important;
+}
+.ComposeManager-PopupCompose_hidden .composeReact__footer .button2 {
+  display: none;
+}

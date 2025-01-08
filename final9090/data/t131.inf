@@ -1,0 +1,17 @@
+[t131]
+FileName1=t131.gif
+URL1=https://yandex.ru/clck/click
+Total=3
+RequestHeaderFile=t131_RequestHeader.txt
+RequestBodyFile=t131_RequestBody.txt
+ResponseHeaderFile=t131_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_124.xml
+FileName2=t131_0.png
+URL2=https://mail.yandex.ru/u2709/favicon/png/main-favicon/32/0.png
+FileName3=t131_main.html
+URL3=https://static-mon.yandex.net/static/main.js?pid=yandex_mail
+[ProtocolInfo]
+ProtocolId=QTWeb

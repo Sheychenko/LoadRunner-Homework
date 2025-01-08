@@ -1,0 +1,14 @@
+HTTP/1.0 200 Ok
+Connection: Keep-Alive
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+Content-Length: 43
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache
+X-Yandex-Req-Id: 1735901690907670-11756747777511269188-balancer-l7leveler-kubr-yp-klg-271-BAL
+Content-Type: image/gif
+Access-Control-Allow-Credentials: true
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Set-Cookie: bh=EkIiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsICJDaHJvbWl1bSI7dj0iMTMxIiwgIk5vdF9BIEJyYW5kIjt2PSIyNCIaBSJ4ODYiIhAiMTMxLjAuMjkwMy4xMTIiKgI/MDoJIldpbmRvd3MiQggiMTUuMC4wIkoEIjY0IlJdIk1pY3Jvc29mdCBFZGdlIjt2PSIxMzEuMC4yOTAzLjExMiIsIkNocm9taXVtIjt2PSIxMzEuMC42Nzc4LjIwNSIsIk5vdF9BIEJyYW5kIjt2PSIyNC4wLjAuMCIiYPqD37sGaiHcyuH/CJLYobEDn8/h6gP7+vDnDev//fYPpJjNhwiF7AM=; Path=/; Domain=.yandex.ru; Expires=Sat, 07 Feb 2026 10:54:50 GMT; SameSite=None; Secure
+Access-Control-Allow-Origin: https://mail.yandex.ru
+

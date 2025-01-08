@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Timing-Allow-Origin: *
+Content-Encoding: gzip
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Pragma: no-cache
+Content-Type: image/gif
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+Content-Security-Policy: upgrade-insecure-requests; default-src 'none'; base-uri 'none'; script-src 'report-sample' 'unsafe-inline' 'self' yandex.ru an.yandex.ru api-maps.yandex.ru mc.yandex.ru yastatic.net pcode.yads.tech *.maps.yandex.net; style-src 'unsafe-inline' yastatic.net; img-src 'self' data: avatars.mds.yandex.net favicon.yandex.net *.captcha.yandex.net yastatic.net *.maps.yandex.net *.yandex.ru avatars.yads.tech; media-src blob: strm.yandex.ru *.strm.yandex.net; font-src yastatic.net; connect-src 'self' blob: abs.yandex.ru an.yandex.ru yandex.ru mc.yandex.ru yastatic.net log.strm.yandex.ru display.yads.tech display-logs.yads.tech; frame-src yandexadexchange.net yandex.ru an.yandex.ru; report-uri https://csp.yandex.net/csp?from=yabs&project=yabs&yandex_login=&platform=
+Last-Modified: Fri, 03 Jan 2025 10:54:53 GMT
+Expires: Fri, 03 Jan 2025 10:54:53 GMT
+X-XSS-Protection: 1; mode=block
+Access-Control-Allow-Credentials: true
+X-Yandex-Req-Id: 1735901693503352-1544465758073038813-balancer-l7leveler-kubr-yp-klg-131-BAL
+X-Content-Type-Options: nosniff
+Date: Fri, 03 Jan 2025 10:54:53 GMT
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+

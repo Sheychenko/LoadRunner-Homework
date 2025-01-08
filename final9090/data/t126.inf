@@ -1,0 +1,11 @@
+[t126]
+FileName1=t126.html
+URL1=https://an.yandex.ru/event_confirmation
+Total=1
+RequestHeaderFile=t126_RequestHeader.txt
+RequestBodyFile=t126_RequestBody.txt
+ResponseHeaderFile=t126_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_119.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

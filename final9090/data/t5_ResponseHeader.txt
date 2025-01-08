@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 3738
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 852239236F084C738B092AEBA8954CBD Ref B: STOEDGE1221 Ref C: 2025-01-03T10:49:19Z
+Date: Fri, 03 Jan 2025 10:49:18 GMT
+

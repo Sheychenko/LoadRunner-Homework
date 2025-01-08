@@ -1,0 +1,13 @@
+[t45]
+FileName1=t45.gif
+URL1=https://mc.yandex.ru/watch/784657/1?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fretpath%3Dhttps%253A%252F%252Fmail.yandex.ru%26origin%3Dmail360&charset=utf-8&ut=noindex&hittoken=1735901421_d57c2ee3fb6b35a0d3f305e1d4e3ba7d8c694726d676d846efa85aede2ffdd3b&browser-info=nb%3A1%3Acl%3A1904%3Aar%3A1%3Avf%3Afqngs4ku2ry4ydu78wzu8osbsm7%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru%3Av%3A1551%3Acn%3A2%3Adp%3A1%3Als%3A48396766081%3Ahid%3A268403425%3Az%3A180%3Ai%3A20250103135034%3Aet%3A1735901434%3Ac%3A1%3Arn%3A62180018%3Arqn%3A7%3Au%3A1735901419877300485%3Aw%3A1241x1281%3As%3A2560x1440x24%3Ask%3A1%3Aco%3A0%3Acpf%3A1%3Aeu%3A0%3Ans%3A1735901413396%3Aadb%3A2%3App%3A3629563401%3Apu%3A32361475851735901419877300485%3Azzlc%3Ana%3Arqnl%3A1%3Ast%3A1735901434&t=gdpr(8-0)mc(p-4-g-1)clc(0-0-0)rqnt(7)aw(1)rcm(1)yu(9903672511735901413)cdl(na)eco(3244804)dss(2)ti(0)&force-urlencoded=1&site-info=%7B%22__ym%22%3A%7B%22ct%22%3A%5B%5D%7D%7D
+Total=1
+RequestHeaderFile=t45_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t45_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_38.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

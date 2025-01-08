@@ -1,0 +1,11 @@
+[t193]
+FileName1=t193.json
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=do-settings,settings
+Total=1
+RequestHeaderFile=t193_RequestHeader.txt
+RequestBodyFile=t193_RequestBody.txt
+ResponseHeaderFile=t193_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_186.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

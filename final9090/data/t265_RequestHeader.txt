@@ -1,0 +1,16 @@
+GET https://mail.yandex.ru/?ncrnd=77275 HTTP/1.1
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Referer: https://sso.ya.ru/
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru
+Cookie: i=6mMqpHzKpL4P6wgzu+0jaFsDjkI71VtLYiSQ6ktZqq1fwZYPsbW+DVBD4OoOWvHjtjuCZLTHNOwpVLESiMn+PRGg5t0=; yandexuid=9903672511735901413; yashr=4069131091735901413; receive-cookie-deprecation=1; yuidss=9903672511735901413; ymex=2051261420.yrts.1735901420; gdpr=0; _ym_uid=1735901419877300485; _ym_d=1735901421; _ym_isad=2; _ym_visorc=b; L=BghyXnUFZVpfU1JzYXBWXw52agR/RnEFWzQ2BgwjMQQ+Ohs=.1735901567.16005.369034.828bf3dc6ea7a4e5d5691af66e0b39fa; is_gdpr=0; is_gdpr_b=CJfOVRDlpwIoAg==; stngs=stngs.1%3Acolorful%3A%3Atrue%3Atrue; _yasc=YHyF38GQ4YfYyiVYfh0fgMRf95w8haijgvSk9jVQevv1d3fQ6+hjYMir6Hya7OTZSwfENstDGw==; yabs-vdrf=A0; ymai_iale=0; font_loaded=YSv1; cycada=H5tZ81lMQAkG3WKsWl7/X4SHi3NquI+uQDtHYrskaBE=; bh=EkIiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsICJDaHJvbWl1bSI7dj0iMTMxIiwgIk5vdF9BIEJyYW5kIjt2PSIyNCIaBSJ4ODYiIhAiMTMxLjAuMjkwMy4xMTIiKgI/MDoJIldpbmRvd3MiQggiMTUuMC4wIkoEIjY0IlJdIk1pY3Jvc29mdCBFZGdlIjt2PSIxMzEuMC4yOTAzLjExMiIsIkNocm9taXVtIjt2PSIxMzEuMC42Nzc4LjIwNSIsIk5vdF9BIEJyYW5kIjt2PSIyNC4wLjAuMCIiYOyE37sGaiHcyuH/CJLYobEDn8/h6gP7+vDnDev//fYPpJjNhwiF7AM=; yp=2051261804.multib.1; yandex_login=; ys=c_chck.1444856378
+Host: mail.yandex.ru
+

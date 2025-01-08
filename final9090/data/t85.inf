@@ -1,0 +1,11 @@
+[t85]
+FileName1=t85_unread_count.json
+URL1=https://yandex.ru/messenger/api/unread_count?parentOrigin=https%3A%2F%2Fmail.yandex.ru&rn=705433&reqNum=1&other_guid=f9bcfd00-dbce-9456-5051-c1497d71c663&serviceId=67&client=supportMail
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_78.xml
+RequestHeaderFile=t85_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t85_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

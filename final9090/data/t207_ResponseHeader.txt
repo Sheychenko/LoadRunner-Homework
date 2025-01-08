@@ -1,0 +1,22 @@
+HTTP/1.1 200 Ok
+date: Fri, 03 Jan 2025 10:54:50 GMT
+access-control-allow-credentials: true
+expires: Fri, 03 Jan 2025 10:54:50 GMT
+access-control-allow-origin: https://mail.yandex.ru
+X-Content-Type-Options: nosniff
+X-Yandex-Req-Id: 1735901690885599-9250434225177880406-balancer-l7leveler-kubr-yp-klg-308-BAL
+cache-control: private, no-cache, no-store, must-revalidate, max-age=0
+pragma: no-cache
+uniformat-product-type: Direct
+set-cookie: yabs-vdrf=A0; domain=yandex.ru; path=/; expires=Fri, 10-Jan-2025 10:54:50 GMT; SameSite=None; Secure,bh=EkIiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsICJDaHJvbWl1bSI7dj0iMTMxIiwgIk5vdF9BIEJyYW5kIjt2PSIyNCIqAj8wOgkiV2luZG93cyJg+oPfuwZqIdzK4f8IktihsQOfz+HqA/v68OcN6//99g+kmM2HCIXsAw==; Path=/; Domain=.yandex.ru; Expires=Sat, 07 Feb 2026 10:54:50 GMT; SameSite=None; Secure,bh=EkIiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsICJDaHJvbWl1bSI7dj0iMTMxIiwgIk5vdF9BIEJyYW5kIjt2PSIyNCIaBSJ4ODYiIhAiMTMxLjAuMjkwMy4xMTIiKgI/MDoJIldpbmRvd3MiQggiMTUuMC4wIkoEIjY0IlJdIk1pY3Jvc29mdCBFZGdlIjt2PSIxMzEuMC4yOTAzLjExMiIsIkNocm9taXVtIjt2PSIxMzEuMC42Nzc4LjIwNSIsIk5vdF9BIEJyYW5kIjt2PSIyNC4wLjAuMCIiYPqD37sGaiHcyuH/CJLYobEDn8/h6gP7+vDnDev//fYPpJjNhwiF7AM=; Path=/; Domain=.yandex.ru; Expires=Sat, 07 Feb 2026 10:54:50 GMT; SameSite=None; Secure
+timing-allow-origin: *
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+last-modified: Fri, 03 Jan 2025 10:54:50 GMT
+uniformat: true
+x-xss-protection: 1; mode=block
+Content-Type: application/json
+Content-Encoding: gzip
+content-security-policy: upgrade-insecure-requests; default-src 'none'; base-uri 'none'; script-src 'report-sample' 'unsafe-inline' 'self' yandex.ru an.yandex.ru api-maps.yandex.ru mc.yandex.ru yastatic.net pcode.yads.tech *.maps.yandex.net; style-src 'unsafe-inline' yastatic.net; img-src 'self' data: avatars.mds.yandex.net favicon.yandex.net *.captcha.yandex.net yastatic.net *.maps.yandex.net *.yandex.ru avatars.yads.tech; media-src blob: strm.yandex.ru *.strm.yandex.net; font-src yastatic.net; connect-src 'self' blob: abs.yandex.ru an.yandex.ru yandex.ru mc.yandex.ru yastatic.net log.strm.yandex.ru display.yads.tech display-logs.yads.tech; frame-src yandexadexchange.net yandex.ru an.yandex.ru; report-uri https://csp.yandex.net/csp?from=yabs&project=yabs&yandex_login=&platform=,upgrade-insecure-requests; default-src 'none'; base-uri 'none'; script-src 'report-sample' 'unsafe-inline' 'self' yandex.ru an.yandex.ru api-maps.yandex.ru mc.yandex.ru yastatic.net pcode.yads.tech *.maps.yandex.net; style-src 'unsafe-inline' yastatic.net; img-src 'self' data: avatars.mds.yandex.net favicon.yandex.net *.captcha.yandex.net yastatic.net *.maps.yandex.net *.yandex.ru avatars.yads.tech; media-src blob: strm.yandex.ru *.strm.yandex.net; font-src yastatic.net; connect-src 'self' blob: abs.yandex.ru an.yandex.ru yandex.ru mc.yandex.ru yastatic.net log.strm.yandex.ru display.yads.tech display-logs.yads.tech; frame-src yandexadexchange.net yandex.ru an.yandex.ru; report-uri https://csp.yandex.net/csp?from=yabs&project=yabs&yandex_login=&platform=
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+

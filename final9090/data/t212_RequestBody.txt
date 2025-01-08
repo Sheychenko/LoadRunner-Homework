@@ -1,0 +1,4 @@
+"{\"data\":{\"imageAreaPortion\":0.9055555555555556,\"imageContainerHeight\":180,\"imageContain"
+"erWidth\":163,\"renderedImageWidth\":180,\"renderedImageHeight\":180,\"imageRatio\":1,\"imageC"
+"ontainerRatio\":0.9055555555555556},\"name\":\"NATIVE_IMAGE_DATA\",\"version\":\"1183758\",\"i"
+"s_ssr\":false,\"unixtime\":1735901691}\n"

@@ -1,0 +1,12 @@
+POST /registration-validations/auth/additional_data/ask_v2 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: https://passport.yandex.ru/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept-Encoding: gzip
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: passport.yandex.ru
+Cookie: uniqueuid=895449351736271305; _yasc=WMoy0KOwWm/HASEpqJDLIJBcJlpeYBaRJH5xLLFbxRLQGwbzIExEMpMm63nM8C1Xg0e/; i=XiDjnENexzRg3mOTgDCp7hCK76jvDSBZyEYeaqReGmWhCyTE/npGRnn0HPGARt3fWD/MeLHpG5E5257WJ3U/Xja6z0g=; yandexuid=6304189941736271305; yashr=5017083411736271305; Session_id=3:1736271308.5.0.1736271308329:0aAYXw:3dad.1.2:1|2064807418.0.2.3:1736271308|3:10300933.535712.yfriAhTp8jLdWDTbnLiusECWYbc; sessar=1.1197.CiD6P8xkTFiGC6vDPp3IumLMLs09LrOhpRbdRhIlxysHzA.TDJnnr2MdamzLvaR1cji8UCro8wU2a2A0x6eaNr2BRQ; sessionid2=3:1736271308.5.0.1736271308329:0aAYXw:3dad.1.2:1|2064807418.0.2.3:1736271308|3:10300933.535712.fakesign0000000000000000000; sessguard=1.1736271308.1736271308329:0aAYXw:3dad..3.500:50171.86XFxuya.0mR7mc2sHlgzYnd-1sRmd7C1aAk; yp=2051631308.udn.cDpiZWxrYXRlc3RpdA%3D%3D; ys=udn.cDpiZWxrYXRlc3RpdA%3D%3D; L=cjtSY3d0QF9qUn55Q3F/RkJKWHtncGwHVgopLVQHKxsAASI=.1736271308.16009.370549.7ee36513910acbd10e10f1dd32a6a7cf; yandex_login=belkatestit; lah=2:1799343308.10038295.h4M_7bgzq5vOqGg-.B06H2uz7J7hgtzEmrnF4LAdb9oLo-Dg5i5aSbtNxECaOcYaS6gW7Hd9V.xMWhZH5KcFfhomMRZfurEw; mda2_beacon=1736271308345
+Content-Length: 126
+

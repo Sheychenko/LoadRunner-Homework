@@ -1,0 +1,11 @@
+[t75]
+FileName1=t75.json
+URL1=https://passport.yandex.ru/registration-validations/getCommonTrack
+Total=1
+RequestHeaderFile=t75_RequestHeader.txt
+RequestBodyFile=t75_RequestBody.txt
+ResponseHeaderFile=t75_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_68.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

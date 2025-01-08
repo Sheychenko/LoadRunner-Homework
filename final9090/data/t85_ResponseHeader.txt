@@ -1,0 +1,17 @@
+HTTP/1.1 200 Ok
+Access-Control-Allow-Origin: https://mail.yandex.ru
+X-XSS-Protection: 1; mode=block
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Content-Type: application/json
+Access-Control-Max-Age: 86400
+set-cookie: is_gdpr=0; Path=/; Domain=.yandex.ru; Expires=Sun, 03 Jan 2027 10:52:57 GMT; SameSite=None; Secure,is_gdpr_b=CNfYHxDlpwI=; Path=/; Domain=.yandex.ru; Expires=Sun, 03 Jan 2027 10:52:57 GMT; SameSite=None; Secure
+Content-Length: 11
+Access-Control-Allow-Headers: Content-Type, Authorization
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+X-Yandex-Req-Id: 1735901577422100-6998750675469846783-balancer-l7leveler-kubr-yp-klg-62-BAL
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+Access-Control-Allow-Credentials: true
+Date: Fri, 03 Jan 2025 10:52:57 GMT
+

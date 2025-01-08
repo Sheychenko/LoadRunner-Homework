@@ -1,0 +1,13 @@
+[t158]
+FileName1=t158.gif
+URL1=https://yandex.ru/clck/click
+Total=1
+RequestHeaderFile=t158_RequestHeader.txt
+RequestBodyFile=t158_RequestBody.txt
+ResponseHeaderFile=t158_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_151.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

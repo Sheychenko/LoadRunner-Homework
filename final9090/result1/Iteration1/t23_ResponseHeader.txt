@@ -1,0 +1,13 @@
+HTTP/2.0 200
+Status: 200
+content-length: 63
+nel: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+accept-ch: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+report-to: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+x-content-type-options: nosniff
+x-yandex-req-id: 1736271313872321-1068177727148039179-balancer-l7leveler-kubr-yp-klg-199-BAL
+x-xss-protection: 1; mode=block
+set-cookie: is_gdpr=0; Path=/; Domain=.yandex.ru; Expires=Thu, 07 Jan 2027 17:35:13 GMT; SameSite=None; Secure
+set-cookie: is_gdpr_b=CNfYHxDMqAI=; Path=/; Domain=.yandex.ru; Expires=Thu, 07 Jan 2027 17:35:13 GMT; SameSite=None; Secure
+content-type: application/json; charset=utf-8
+

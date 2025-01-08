@@ -1,0 +1,16 @@
+HTTP/1.1 200 Ok
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+X-XSS-Protection: 1; mode=block
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Content-Encoding: gzip
+Access-Control-Allow-Headers: x-request-id, x-yamb-version, authorization, x-yamb-user, x-yamb-token, cookie, content-type, x-csrf-token, x-version, x-uid, x-application-id, x-uuid, x-origin-service-id, cache-control, x-request-attempt, x-ya-organization-id
+X-Content-Type-Options: nosniff
+Content-Length: 335
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+Content-Type: application/json; charset=utf-8
+Access-Control-Max-Age: 86400
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://yandex.ru
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+X-Yandex-Req-Id: 1735901580137293-18176521575628589473-balancer-l7leveler-kubr-yp-klg-198-BAL
+

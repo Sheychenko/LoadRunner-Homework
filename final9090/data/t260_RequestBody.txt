@@ -1,0 +1,2 @@
+"/events=%5B%7B%22event%22%3A%22click%22%2C%22service%22%3A%22user-id%22%2C%22event-id%22%3A%22"
+"m5gn445z1%22%2C%22id%22%3A%221xp9p%22%2C%22cts%22%3A1735901803799%7D%5D/*//"

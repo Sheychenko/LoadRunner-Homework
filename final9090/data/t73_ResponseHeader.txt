@@ -1,0 +1,11 @@
+HTTP/1.1 200 Ok
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-Requested-With, Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS, POST
+Access-Control-Allow-Origin: https://passport.yandex.ru
+Cache-Control: no-cache, private, no-cache, no-store, must-revalidate, max-age=0
+Content-Length: 66
+Content-Type: application/json; charset=utf-8
+Date: Fri, 03 Jan 2025 10:52:48 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+

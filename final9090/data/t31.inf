@@ -1,0 +1,13 @@
+[t31]
+FileName1=t31.htm
+URL1=https://mc.yandex.ru/metrika/metrika_match.html
+Total=2
+RequestHeaderFile=t31_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t31_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_24.xml
+FileName2=t31_favicon.html
+URL2=https://passport.yandex.ru/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb

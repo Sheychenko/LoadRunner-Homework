@@ -1,0 +1,9 @@
+HTTP/1.1 200 Ok
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+Set-Cookie: i=z2nEBgvLCvOgsDB4fgAuXbFXbvTFzGiFOTWdv2CmQkekzbgvqNV9+p+phFQD0g/Jm5xUB6MQYi/ADitHMaD5F49dS38=; Expires=Sun, 03-Jan-2027 10:54:51 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly; SameSite=None,yandexuid=2150073311735901691; Expires=Sun, 03-Jan-2027 10:54:51 GMT; Domain=.yandex.ru; Path=/; Secure; SameSite=None,yashr=9026039531735901691; Path=/; Domain=.yandex.ru; Expires=Sat, 03 Jan 2026 10:54:51 GMT; SameSite=None; Secure; HttpOnly,receive-cookie-deprecation=1; Path=/; Domain=.yandex.ru; Expires=Sat, 03 Jan 2026 10:54:51 GMT; SameSite=None; Secure; HttpOnly; Partitioned,bh=EkIiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsICJDaHJvbWl1bSI7dj0iMTMxIiwgIk5vdF9BIEJyYW5kIjt2PSIyNCIqAj8wOgkiV2luZG93cyJg+4PfuwZqIdzK4f8IktihsQOfz+HqA/v68OcN6//99g+kmM2HCIXsAw==; Path=/; Domain=.yandex.ru; Expires=Sat, 07 Feb 2026 10:54:51 GMT; SameSite=None; Secure
+Access-Control-Allow-Origin: *
+X-Content-Type-Options: nosniff
+X-Yandex-Req-Id: 1735901691329609-237079930615007331-balancer-l7leveler-kubr-yp-klg-61-BAL
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+

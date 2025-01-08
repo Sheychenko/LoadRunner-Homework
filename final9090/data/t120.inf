@@ -1,0 +1,13 @@
+[t120]
+FileName1=t120.json
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=get-ds-collection
+Total=2
+RequestHeaderFile=t120_RequestHeader.txt
+RequestBodyFile=t120_RequestBody.txt
+ResponseHeaderFile=t120_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_113.xml
+FileName2=t120_host.html
+URL2=https://yastatic.net/safeframe-bundles/0.83/host.js
+[ProtocolInfo]
+ProtocolId=QTWeb

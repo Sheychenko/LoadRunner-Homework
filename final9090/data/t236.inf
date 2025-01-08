@@ -1,0 +1,15 @@
+[t236]
+FileName1=t236.htm
+URL1=https://yandex.ru/user-id?retpath=https%253A%252F%252Fmail.yandex.ru&colorScheme=light&l10n=ru&project=yandex360&env=prod&dir=ltr&from=Mail&uid=2064807418&yandex360.tuningOrigin=https%3A%2F%2F360.yandex.ru&yandex360.customSupportClick=1
+Total=3
+RequestHeaderFile=t236_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t236_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_229.xml
+FileName2=t236_styles.cbdd79cb.css
+URL2=https://yastatic.net/s3/frontend/user-id/_/css/styles.cbdd79cb.css
+FileName3=t236_tag.html
+URL3=https://mc.yandex.ru/metrika/tag.js
+[ProtocolInfo]
+ProtocolId=QTWeb

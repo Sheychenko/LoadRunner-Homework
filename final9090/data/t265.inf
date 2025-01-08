@@ -1,0 +1,13 @@
+[t265]
+FileName1=t265.htm
+URL1=https://360.yandex.ru/mail/
+Total=2
+RequestHeaderFile=t265_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t265_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_258.xml
+FileName2=t265_advert.gif
+URL2=https://mc.yandex.ru/metrika/advert.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

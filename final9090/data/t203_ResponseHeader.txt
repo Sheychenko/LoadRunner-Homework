@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 03 Jan 2025 10:54:50 GMT
+Content-Type: application/json; charset=utf-8
+Connection: keep-alive
+Vary: Accept-Encoding
+x-trace-id: b8a33dbab1b9e5df7a5364e65696333a
+Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private,private,no-cache,no-store,must-revalidate,max-age=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Pragma: no-cache
+X-Response-With: YMail
+Content-Encoding: gzip
+NEL: {"report_to": "network-errors", "max_age": 604800, "success_fraction": 0.005, "failure_fraction": 0.5}
+Report-To: {"group": "network-errors", "max_age": 604800, "endpoints": [{"url": "https://dr.yandex.net/ya360/nel", "priority": 1}, {"url": "https://dr2.yandex.net/ya360/nel", "priority": 2}]}
+x-dns-prefetch-control: off
+X-Request-Id: ac2b7bc64bf5568d3f3393ac07827538
+Strict-Transport-Security: max-age=315360000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+

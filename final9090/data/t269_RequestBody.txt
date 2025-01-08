@@ -1,0 +1,1 @@
+"site-info=%7B%22upgrade%20page%22%3A%7B%22error%22%3A%22unsupported%20browser%22%7D%7D"

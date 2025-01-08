@@ -1,0 +1,11 @@
+[t42]
+FileName1=t42.html
+URL1=https://csp.yandex.net/csp?from=passport&project=passport&yandex_login=&yandexuid=9903672511735901413
+Total=1
+RequestHeaderFile=t42_RequestHeader.txt
+RequestBodyFile=t42_RequestBody.txt
+ResponseHeaderFile=t42_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_35.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

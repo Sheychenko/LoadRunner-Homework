@@ -1,0 +1,1 @@
+(window.webpack=window.webpack||[]).push([["i18n.mail-liza.react-settings-popup.ru"],{"./locales/i18n/mail-liza/react-settings-popup/homeTitle/ru.tsx":function(i,a,e){e.r(a);a.default="Все настройки"}}]);

@@ -1,0 +1,17 @@
+POST https://mc.yandex.ru/watch/40081755/1?page-url=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D2064807418%23tabs%2Frelevant&charset=utf-8&ut=noindex&uah=chu%0A%22Microsoft%20Edge%22%3Bv%3D%22131%22%2C%22Chromium%22%3Bv%3D%22131%22%2C%22Not_A%20Brand%22%3Bv%3D%2224%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A131.0.2903.112%0Achl%0A%22Microsoft%20Edge%22%3Bv%3D%22131.0.2903.112%22%2C%22Chromium%22%3Bv%3D%22131.0.6778.205%22%2C%22Not_A%20Brand%22%3Bv%3D%2224.0.0.0%22%0Achm%0A%3F0%0Achp%0AWindows%0Achv%0A15.0.0&hittoken=1735901581_07db3b714427c5157be4d7d6ee59bd5ce794c2ca253dc4b354bf61c67fbd9ef0&browser-info=pa%3A1%3Aar%3A1%3Avf%3Afqngs4ku2ry4ydu78wzu8osbsm7%3Afu%3A1%3Aen%3Autf-8%3Ala%3Aru%3Av%3A1551%3Acn%3A1%3Adp%3A1%3Als%3A200798953576%3Ahid%3A752493145%3Az%3A180%3Ai%3A20250103135441%3Aet%3A1735901682%3Ac%3A1%3Arn%3A632843381%3Arqn%3A5%3Au%3A1735901419877300485%3Aw%3A1241x1281%3As%3A2560x1440x24%3Ask%3A1%3Aco%3A0%3Acpf%3A1%3Aeu%3A0%3Ans%3A1735901570190%3Aadb%3A2%3Arqnl%3A1%3Ast%3A1735901682&t=gdpr(13-0)mc(p-4-h-1)clc(0-0-0)rqnt(5)aw(1)rcm(0)yu(9903672511735901413)cdl(na)eco(100104)dss(1)ti(0)&force-urlencoded=1&site-info=%5B%7B%22Letter%20writing%20(new)%22%3A%7B%22in%20header%22%3A%7B%22in%20suggest%22%3A%22click%20on%20%5C%22self%5C%22%20contact%22%7D%7D%7D%2C%7B%22Letter%20writing%20(new)%22%3A%7B%22in%20wysiwig%22%3A%22focus%20on%20%5C%22Body%5C%22%22%7D%7D%2C%7B%22version%22%3A%22191.1.0%22%7D%5D HTTP/1.1
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: */*
+Origin: https://mail.yandex.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.yandex.ru/
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru
+Cookie: i=6mMqpHzKpL4P6wgzu+0jaFsDjkI71VtLYiSQ6ktZqq1fwZYPsbW+DVBD4OoOWvHjtjuCZLTHNOwpVLESiMn+PRGg5t0=; yandexuid=9903672511735901413; yashr=4069131091735901413; receive-cookie-deprecation=1; yuidss=9903672511735901413; ymex=2051261420.yrts.1735901420; yabs-sid=1198947971735901420; gdpr=0; _ym_uid=1735901419877300485; _ym_d=1735901421; _ym_isad=2; _ym_visorc=b; Session_id=3:1735901567.5.0.1735901567818:0aAYXw:d6e6.1.2:1|2064807418.0.2.3:1735901567|3:10300727.95854._mLMedKOxRxk3RbOt1a4VwVRJTg; sessar=1.1197.CiBUupGYDWb_bcC4VwS1BSemAM4gHgXcNP5Q-x2PTtilxQ.bPgT4QU6TdWcZduzc5pnQ-zzMtcdz9Po9q5uQIpZBo8; sessionid2=3:1735901567.5.0.1735901567818:0aAYXw:d6e6.1.2:1|2064807418.0.2.3:1735901567|3:10300727.95854.fakesign0000000000000000000; yp=2051261567.udn.cDpiZWxrYXRlc3RpdA%3D%3D; L=BghyXnUFZVpfU1JzYXBWXw52agR/RnEFWzQ2BgwjMQQ+Ohs=.1735901567.16005.369034.828bf3dc6ea7a4e5d5691af66e0b39fa; yandex_login=belkatestit; ys=udn.cDpiZWxrYXRlc3RpdA%3D%3D#c_chck.1896820028; is_gdpr=0; is_gdpr_b=CJfOVRDlpwIoAg==; _yasc=YHyF38GQ4YfYyiVYfh0fgMRf95w8haijgvSk9jVQevv1d3fQ6+hjYMir6Hya7OTZSwfENstDGw==; yabs-vdrf=A0; bh=EkIiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsICJDaHJvbWl1bSI7dj0iMTMxIiwgIk5vdF9BIEJyYW5kIjt2PSIyNCIqAj8wOgkiV2luZG93cyJgkIPfuwZqIdzK4f8IktihsQOfz+HqA/v68OcN6//99g+kmM2HCIXsAw==
+Host: mc.yandex.ru
+Content-Length: 0
+

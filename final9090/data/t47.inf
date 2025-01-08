@@ -1,0 +1,15 @@
+[t47]
+FileName1=t47.gif
+URL1=https://yandex.ru/clck/click
+Total=2
+RequestHeaderFile=t47_RequestHeader.txt
+RequestBodyFile=t47_RequestBody.txt
+ResponseHeaderFile=t47_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_40.xml
+FileName2=t47_2ed1297e-f6c9-4355-aec4-433ea371b116.html
+URL2=http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2ed1297e-f6c9-4355-aec4-433ea371b116?P1=1736221547&P2=404&P3=2&P4=e%2fcHk%2b1WwXA%2byIehBhNUJyLRgrLHi7jGqGZSQQE3phRlGRplHmkBa1V%2fcmrWPg2uhqMPd86MNhaKJMvRj5VIXA%3d%3d
+[ProtocolInfo]
+ProtocolId=QTWeb

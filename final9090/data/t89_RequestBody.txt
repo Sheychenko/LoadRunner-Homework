@@ -1,0 +1,5 @@
+"------WebKitFormBoundary4HVJx3PSUQdx0Wny\r\n"
+"Content-Disposition: form-data; name=\"request\"\r\n"
+"\r\n"
+"{\"method\":\"request_user\",\"params\":{\"bind_phone_number\":false}}\r\n"
+"------WebKitFormBoundary4HVJx3PSUQdx0Wny--\r\n"

@@ -1,0 +1,15 @@
+[t89]
+FileName1=t89.json
+URL1=https://yandex.ru/messenger/api/registry/api/
+Total=3
+RequestHeaderFile=t89_RequestHeader.txt
+RequestBodyFile=t89_RequestBody.txt
+ResponseHeaderFile=t89_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_82.xml
+FileName2=t89_53c0969e540074ad5d96-20.html
+URL2=https://yastatic.net/s3/liza/_/53c0969e540074ad5d96-20.js
+FileName3=t89_0-73b72689fec0c6f7a381.html
+URL3=https://yastatic.net/s3/psf/mail-liza-react-client/0-73b72689fec0c6f7a381.js
+[ProtocolInfo]
+ProtocolId=QTWeb

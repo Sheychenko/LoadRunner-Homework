@@ -1,0 +1,11 @@
+[t267]
+FileName1=t267_1.json
+URL1=https://mc.yandex.ru/watch/3/1?wmode=7&page-url=https%3A%2F%2F360.yandex.ru%2Fmail%2F&page-ref&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Avf%3Afqngs4ku2ry4ydu78wzu8osbsm7%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A1551%3Acn%3A1%3Adp%3A0%3Als%3A630674262073%3Ahid%3A578266504%3Az%3A180%3Ai%3A20250103135646%3Aet%3A1735901807%3Ac%3A1%3Arn%3A541558616%3Arqn%3A1%3Au%3A1735901807725633187%3Aw%3A1241x1258%3As%3A2560x1440x24%3Ask%3A1%3Aj%3A1%3Ads%3A0%2C0%2C0%2C23%2C0%2C0%2C%2C0%2C0%2C84%2C84%2C0%2C23%3Aco%3A0%3Ans%3A1735901806518%3Ast%3A1735901807&t=mc%28p-1%29clc%280-0-0%29rqnt%281%29aw%281%29rcm%280%29yu%281719458771735901806%29cdl%28na%29eco%2832768%29ti%282%29
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_260.xml
+RequestHeaderFile=t267_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t267_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

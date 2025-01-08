@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=691200
+Content-Length: 275
+Content-Type: application/json; charset=utf-8
+X-Cache: TCP_HIT
+X-MSEdge-Ref: Ref A: 719B8BA3DAD245A4B5B27F68CC1D28F2 Ref B: STOEDGE0908 Ref C: 2025-01-03T10:51:40Z
+Date: Fri, 03 Jan 2025 10:51:39 GMT
+

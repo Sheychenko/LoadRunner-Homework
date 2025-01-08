@@ -1,0 +1,6 @@
+[t6]
+FileName1=t6_blocklist.json
+URL1=https://edge.microsoft.com/abusiveadblocking/api/v1/blocklist
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_5.xml

@@ -1,0 +1,13 @@
+[t169]
+FileName1=t169.html
+URL1=https://an.yandex.ru/event_confirmation
+Total=2
+RequestHeaderFile=t169_RequestHeader.txt
+RequestBodyFile=t169_RequestBody.txt
+ResponseHeaderFile=t169_ResponseHeader.txt
+ContentType=image/webp
+SnapshotXmlFile=snapshot_162.xml
+FileName2=t169_x180.webp
+URL2=https://avatars.mds.yandex.net/get-direct/5161428/oYuGE084W9V1H4RcmSBuRQ/x180
+[ProtocolInfo]
+ProtocolId=QTWeb

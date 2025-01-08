@@ -1,0 +1,13 @@
+[t243]
+FileName1=t243.gif
+URL1=https://yandex.ru/clck/click
+Total=1
+RequestHeaderFile=t243_RequestHeader.txt
+RequestBodyFile=t243_RequestBody.txt
+ResponseHeaderFile=t243_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_236.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

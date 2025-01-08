@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Content-Encoding: gzip
+Date: Fri, 03 Jan 2025 10:53:06 GMT
+Expires: Fri, 03 Jan 2025 10:53:06 GMT
+Last-Modified: Fri, 03 Jan 2025 10:53:06 GMT
+Pragma: no-cache
+Set-Cookie: i=xJ2/yvkUbrjET3bqpk72skGn4svIyjd7EuUT5q13gjT4+wLy1F2r24epXqwXb3D5GixZu4H4GFOjNalTXN4I2NYfn08=; Expires=Sun, 03-Jan-2027 10:53:06 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly; SameSite=None,yandexuid=5332947311735901586; Expires=Sun, 03-Jan-2027 10:53:06 GMT; Domain=.yandex.ru; Path=/; Secure; SameSite=None,yashr=8633657431735901586; Path=/; Domain=.yandex.ru; Expires=Sat, 03 Jan 2026 10:53:06 GMT; SameSite=None; Secure; HttpOnly,bh=EkIiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsICJDaHJvbWl1bSI7dj0iMTMxIiwgIk5vdF9BIEJyYW5kIjt2PSIyNCIqAj8wOgkiV2luZG93cyJgkoPfuwZqIdzK4f8IktihsQOfz+HqA/v68OcN6//99g+kmM2HCIXsAw==; Path=/; Domain=.yandex.ru; Expires=Sat, 07 Feb 2026 10:53:06 GMT; SameSite=None; Secure
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+X-XSS-Protection: 1; mode=block
+

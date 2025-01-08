@@ -1,0 +1,13 @@
+[t232]
+FileName1=t232.gif
+URL1=https://yandex.ru/clck/click
+Total=1
+RequestHeaderFile=t232_RequestHeader.txt
+RequestBodyFile=t232_RequestBody.txt
+ResponseHeaderFile=t232_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_225.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

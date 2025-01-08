@@ -1,0 +1,11 @@
+[t114]
+FileName1=t114.txt
+URL1=https://mail.yandex.ru/monitoring_liza.txt?event=LoadingTime&theme=general-default&regDate=1735142319000&regionId=213&prepare=6.6760&static-load=6.6750&handlers=0.2990&static-run=3.4370&parse-prefetch=0.0070&pageinit=0.0100&first-draw=0.2380&trigger-init=0.0480&log-timings=1735901581.0520&timeout=8.5340&tm.connectStart=1735901570194&tm.secureConnectionStart=1735901570194&tm.unloadEventEnd=0&tm.domainLookupStart=1735901570194&tm.domainLookupEnd=1735901570194&tm.responseStart=1735901572512&tm.connectEnd=1735901570751&tm.responseEnd=1735901573869&tm.requestStart=1735901570751&tm.domLoading=1735901572518&tm.redirectStart=0&tm.loadEventEnd=0&tm.domComplete=0&tm.navigationStart=1735901570190&tm.loadEventStart=0&tm.domContentLoadedEventEnd=1735901574019&tm.unloadEventStart=0&tm.redirectEnd=0&tm.domInteractive=1735901573870&tm.fetchStart=1735901570194&tm.domContentLoadedEventStart=1735901574013&nav.type=0&nav.redirectCount=0&uid=2064807418&login=belkatestit&cid=LIZA-12390077-1735901572153&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D2064807418%23tabs%2Frelevant&cv=191.1.0&lcl=ru&cdn=mskstoredata&exp=539434%2C0%2C-1%3B500420%2C0%2C-1%3B722413%2C0%2C-1%3B814988%2C0%2C-1%3B877126%2C0%2C-1%3B924339%2C0%2C-1%3B1030704%2C0%2C-1%3B1103680%2C0%2C-1%3B1104225%2C0%2C-1%3B1105295%2C0%2C-1%3B1151124%2C0%2C-1%3B1162876%2C0%2C-1%3B1163247%2C0%2C-1%3B1170089%2C0%2C-1%3B1174879%2C0%2C-1%3B610121%2C0%2C-1%3B848713%2C0%2C-1%3B944321%2C0%2C-1%3B985006%2C0%2C-1%3B1024668%2C0%2C-1%3B1030455%2C0%2C-1%3B1075392%2C0%2C-1%3B1104478%2C0%2C-1%3B1142331%2C0%2C-1%3B1152849%2C0%2C-1%3B1150928%2C0%2C-1%3B1158907%2C0%2C-1%3B1179603%2C0%2C-1%3B1104704%2C0%2C-1%3B1140931%2C0%2C-1%3B985890%2C0%2C13%3B715756%2C0%2C52%3B762607%2C0%2C8%3B705044%2C0%2C99%3B943630%2C0%2C12%3B1160418%2C0%2C48%3B1086206%2C0%2C3%3B261659%2C0%2C59%3B134421%2C0%2C43%3B188836%2C0%2C33%3B1117098%2C0%2C61%3B1183344%2C0%2C8%3B1180242%2C0%2C15%3B1180238%2C0%2C76%3B1180240%2C0%2C5&kclbd=n&csw=undefined&lifetime=0&afterload=true
+Total=1
+RequestHeaderFile=t114_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t114_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_107.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

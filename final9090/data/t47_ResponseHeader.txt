@@ -1,0 +1,13 @@
+HTTP/1.0 200 Ok
+Access-Control-Allow-Origin: https://passport.yandex.ru
+X-Content-Type-Options: nosniff
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+Connection: Keep-Alive
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width
+Content-Type: image/gif
+Content-Length: 43
+Cache-Control: no-cache
+Access-Control-Allow-Credentials: true
+X-Yandex-Req-Id: 1735901449410632-5765591164938041632-balancer-l7leveler-kubr-yp-klg-62-BAL
+

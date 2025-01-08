@@ -1,0 +1,15 @@
+[t30]
+FileName1=t30.gif
+URL1=https://yandex.ru/clck/click
+Total=2
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=t30_RequestBody.txt
+ResponseHeaderFile=t30_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_23.xml
+FileName2=t30_threatListUpdates_fetch.html
+URL2=https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates_fetch?req=ChgKBm1zZWRnZRIOMTMxLjAuMjkwMy4xMTIaGwgBEAgaDTE3MzU4ODE4OTQ4NzYiBCABIAIoBCICCAE=&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362
+[ProtocolInfo]
+ProtocolId=QTWeb

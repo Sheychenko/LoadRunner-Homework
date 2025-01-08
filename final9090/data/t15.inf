@@ -1,0 +1,11 @@
+[t15]
+FileName1=t15_V1Profile.json
+URL1=https://substrate.office.com/profileb2/v2.0/me/V1Profile
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_11.xml
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t15_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

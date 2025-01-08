@@ -1,0 +1,4 @@
+"csrf_token=338f85e52662d6a3b4de05cda97cb62748674a4c%3A1735901414107&track_id=2408773c043c1053b"
+"dd004fb8b5fd69c9b&password=B31k%40bYlK4t35T!&retpath=https%3A%2F%2Fsso.passport.yandex.ru%2Fpr"
+"epare%3Fuuid%3D9d957ab5-6983-44a3-9dd0-d1e3dc323ed7%26goal%3Dhttps%253A%252F%252Fya.ru%252F%26"
+"finish%3Dhttps%253A%252F%252Fmail.yandex.ru&lang=ru"

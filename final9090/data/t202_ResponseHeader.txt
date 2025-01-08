@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Content-Encoding: gzip
+Date: Fri, 03 Jan 2025 10:54:50 GMT
+Expires: Fri, 03 Jan 2025 10:54:50 GMT
+Last-Modified: Fri, 03 Jan 2025 10:54:50 GMT
+Pragma: no-cache
+Set-Cookie: bh=EkIiTWljcm9zb2Z0IEVkZ2UiO3Y9IjEzMSIsICJDaHJvbWl1bSI7dj0iMTMxIiwgIk5vdF9BIEJyYW5kIjt2PSIyNCIqAj8wOgkiV2luZG93cyJg+oPfuwZqIdzK4f8IktihsQOfz+HqA/v68OcN6//99g+kmM2HCIXsAw==; Path=/; Domain=.yandex.ru; Expires=Sat, 07 Feb 2026 10:54:50 GMT; SameSite=None; Secure
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+X-XSS-Protection: 1; mode=block
+

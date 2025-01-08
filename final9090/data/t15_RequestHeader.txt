@@ -1,0 +1,12 @@
+GET https://substrate.office.com/profileb2/v2.0/me/V1Profile HTTP/1.1
+Authorization: Passport1.4 from-PP='t=EwB4A2KBBAAUcDnR9grBJokeAHaUV8R3+rVHX+IAAaIpUbalzaegOPr0gu5UCuiknSCV0lQZIAlrcQw53UOP5SyMNB//SLWqJ0mbJNv4KH+fb4OPU/lXFqwrWotIV0IkqRxXDrOdnNWkeLu5njD77mFCgVzZggh44gjsPZbTPxKAoHxXCMHuB+lqS77dBfyELSQONboTkAYiDL22Sl/J9AHaT3NQTWCVvjRVj8siW8PnXOlPelh8PlBCKcJnqnsymcrOtkqnp3Q4eDkaiZNpZJfv+aLvm/gMcW/wSyVFqGj1N4cm6yISjofJnA+gOiscIP1ZGoeQEv7ZkymvQQKr33jO9hUw8cy3IuqdtJIvWLpu0Z0SRlM/QdZttXTay7wQZgAAEEqrljtO6FODyhfAljUhUBdAAho1g9nJJWVDdb9GtPadKzJ37AK5WviSKfqGvQ/Gkfb0rtGr6KYDgAi41ahLzQk51QYPkApQYcHYJ1+fY93E/9N2Nf4yqWTswQciVTwYqbdSpxpne7mN+H2hQl2napvNHc45HOpZC3FALd1ERROKdlzjwiCH2l84LHY4J8rGgi8h8RSOhYRn3KO2MsHTsdt7LSmhdbP7dXCov3qkpGscAHm+Iya2oWo1Z1rzv6Xts1hzlZv2yXvH91+hO+cYajILqYrFDtJmD8YH8sRPzzziQOcNj3lFEsd4W26kPhf2+PBIOHK07DLOTqdvK01emb7LbaC+mFdKIAUR0kezYp2OmaZsVyKp3dRjpBsvvcD+sZgZ/As2H5VnE6vTiQbKqJ35+Aohr8iPzv/oa+9oV+WIMDBxzZ1+heVq/dw20IAp2pEVOcIkMFjk5bPSj4sKhEH/6igo0jVE78kxyoxBctxdseNKRCruc96PyVw64MRc3y1OKQfQ1OcSczJPXU2Sfd6W/+WBU10rIV/qmh8APC+kvkalotvPjoIAJnXLhUBIupw0+H3ktJWDNUfWoOpoTJ/2RVYV9RsKr8JYjUVybgUXJS2rG2+J1JhOHxvv0/8KPWxscztbn954e2jEpI5zVTkZsyeSfmO2JI6p7hzflUnOKbyPs1HHaAsDI8ITx+sXefp6SUZRrkHGxJSzzLKu/YjJ1XA4HYGUWZnTuhXpsCPlOzmedWCYM5bIf9v2koJOXGzJqQ15SGfy+/qmGbx3uBI7f2UC&p=
+X-AnchorMailbox: CID:f070a191a34bd5e7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept-Encoding: gzip, deflate, zstd
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Host: substrate.office.com
+Connection: Keep-Alive
+

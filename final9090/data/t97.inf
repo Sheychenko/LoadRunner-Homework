@@ -1,0 +1,13 @@
+[t97]
+FileName1=t97.json
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=system-status
+Total=2
+RequestHeaderFile=t97_RequestHeader.txt
+RequestBodyFile=t97_RequestBody.txt
+ResponseHeaderFile=t97_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_90.xml
+FileName2=t97_compose-9c6c4b23ec3d017d28037682092d8518.css
+URL2=https://yastatic.net/s3/liza/_/compose-9c6c4b23ec3d017d28037682092d8518.css
+[ProtocolInfo]
+ProtocolId=QTWeb

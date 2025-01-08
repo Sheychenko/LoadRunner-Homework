@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\masha\OneDrive\ƒокументы\VuGen\Scripts\final9090
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\masha\onedrive\документы\vugen\scripts\final9090\\logfile.log
+c:\users\masha\onedrive\документы\vugen\scripts\final9090\\combined_final9090.c
+c:\users\masha\onedrive\документы\vugen\scripts\final9090\\pre_cci.c

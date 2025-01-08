@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Content-Encoding: gzip
+Date: Fri, 03 Jan 2025 10:54:38 GMT
+Expires: Fri, 03 Jan 2025 10:54:38 GMT
+Last-Modified: Fri, 03 Jan 2025 10:54:38 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+X-XSS-Protection: 1; mode=block
+

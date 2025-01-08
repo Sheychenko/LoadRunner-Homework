@@ -1,0 +1,2 @@
+"{\"data\":{\"bannerId\":\"72057610245102473\",\"impId\":\"2165\",\"pageId\":\"92550\",\"produc"
+"tType\":\"direct\"},\"version\":\"1183758\",\"name\":\"BANNER_PARTS_IN_VIEW\"}"

@@ -1,0 +1,1 @@
+(window.webpack=window.webpack||[]).push([["i18n.mail-liza.react-abook.ru"],{"./locales/i18n/mail-liza/react-abook/groupDragLabel/ru.tsx":function(a,i,n){n.r(i);i.default=function(a){return'Добавить в группу "'+a.name+'"'}}}]);

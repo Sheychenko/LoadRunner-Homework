@@ -1,0 +1,11 @@
+[t198]
+FileName1=t198.json
+URL1=https://mail.yandex.ru/web-api/do-send/liza1?_send=true
+Total=1
+RequestHeaderFile=t198_RequestHeader.txt
+RequestBodyFile=t198_RequestBody.txt
+ResponseHeaderFile=t198_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_191.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

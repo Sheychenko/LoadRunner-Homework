@@ -1,0 +1,13 @@
+[t253]
+FileName1=t253.gif
+URL1=https://yandex.ru/clck/click/reqid=1735901797878608-15476405479886952973-balancer-l7leveler-kubr-yp-klg-131-BAL/slots=1111484,0,72/puid=2064807418/icookie=9903672511735901413/table=user_id
+Total=1
+RequestHeaderFile=t253_RequestHeader.txt
+RequestBodyFile=t253_RequestBody.txt
+ResponseHeaderFile=t253_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_246.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

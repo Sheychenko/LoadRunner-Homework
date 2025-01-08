@@ -1,0 +1,11 @@
+[t106]
+FileName1=t106_cc.json
+URL1=https://mc.yandex.md/cc?wmode=7
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_99.xml
+RequestHeaderFile=t106_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t106_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

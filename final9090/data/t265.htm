@@ -1,0 +1,44 @@
+
+      <!DOCTYPE html>
+      <html lang="ru">
+      <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="icon" type="image/png" href="https://favicon.yandex.net/favicon/v2/https://yandex.ru?size=32&stub=1">
+        <title>Обновите браузер</title>
+        <style>
+          #app {
+            text-align: center;
+            margin: 80px 40px 0;
+            font-family: yandex-sans, Helvetica, Arial, sans-serif;
+          }
+        </style>
+      </head>
+      <body>
+        <div id="app">Ваш браузер не поддерживается. Пожалуйста, обновите браузер или воспользуйтесь <a href="https://browser.yandex.ru/">Яндекс Браузером</a></div>
+        <script src="https://mc.yandex.ru/metrika/watch.js" async></script>
+        <script nonce="CMwCDm8dupur+baZ+49Vww==" type="text/javascript" >
+        (function(){
+            var counter = null;
+            var init = function() {
+                counter = new window.Ya.Metrika({
+                    id: 61779775
+                });
+            };
+
+            var count = function(args) {
+                counter.params('upgrade page', 'error', 'unsupported browser');
+            };
+
+            if (window.Ya && window.Ya.Metrika) {
+                init();
+                count();
+            } else {
+                window.yandex_metrika_callbacks = [init, count];
+            }
+        })()
+    </script>
+      </body>
+      </html>
+    

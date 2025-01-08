@@ -1,0 +1,120 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: auth",
+                "infFile": "t2.inf",
+                "time": 1736271306270
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: auth_2",
+                "infFile": "t6.inf",
+                "time": 1736271307267
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: start",
+                "infFile": "t9.inf",
+                "time": 1736271307502
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: commit_password",
+                "infFile": "t11.inf",
+                "time": 1736271308202
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: accounts",
+                "infFile": "t13.inf",
+                "time": 1736271308933
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Submit Data: getCommonTrack",
+                "infFile": "t14.inf",
+                "time": 1736271309385
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Submit Data: ask_v2",
+                "infFile": "t15.inf",
+                "time": 1736271310440
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: accounts_2",
+                "infFile": "t17.inf",
+                "time": 1736271310632
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Submit Data: getCommonTrack_2",
+                "infFile": "t18.inf",
+                "time": 1736271310713
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Submit Data: ask_v2_2",
+                "infFile": "t19.inf",
+                "time": 1736271310892
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: mail.yandex.ru",
+                "infFile": "t21.inf",
+                "time": 1736271313347
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: liza1",
+                "infFile": "t22.inf",
+                "time": 1736271313574
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: csrf-token",
+                "infFile": "t23.inf",
+                "time": 1736271313869
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: liza1_18",
+                "infFile": "t25.inf",
+                "time": 1736271314052
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: liza1_27",
+                "infFile": "t28.inf",
+                "time": 1736271314493
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_loginPage",
+                "rawStartTime": 1736271305556,
+                "rawEndTime": 1736271307296,
+                "thinkTime": 0.0,
+                "wastedTime": 0.26508569717407229
+            },
+            {
+                "transactionName": "2_login",
+                "rawStartTime": 1736271307312,
+                "rawEndTime": 1736271313884,
+                "thinkTime": 0.0,
+                "wastedTime": 0.6697831153869629
+            },
+            {
+                "transactionName": "3_sendMessage_1",
+                "rawStartTime": 1736271313964,
+                "rawEndTime": 1736271314493,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013760566711425782
+            }
+        ]
+    }
+]

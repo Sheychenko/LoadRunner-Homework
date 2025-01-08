@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 413
+Content-Type: text/xml; charset=utf-8
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: F6824A11D9254EAF9B5EA490E5EE6035 Ref B: STOEDGE0908 Ref C: 2025-01-03T10:49:20Z
+Date: Fri, 03 Jan 2025 10:49:20 GMT
+

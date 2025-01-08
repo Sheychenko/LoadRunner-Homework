@@ -1,0 +1,13 @@
+[t84]
+FileName1=t84.gif
+URL1=https://mc.yandex.ru/watch/52122583?browser-info=rn%3A647117%3Ac%3A1%3As%3A2560x1440x24%3Aen%3Autf-8%3At%3A%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9F%D0%BE%D1%87%D1%82%D0%B0&rn=119436&page-url=https%3A%2F%2Fmail.yandex.ru%2F&page-ref=https%3A%2F%2Fsso.ya.ru%2F&site-info=%7B%22serviceId%22%3A%2267%22%2C%22workspaceId%22%3A%22supportMail%22%2C%22orgId%22%3A%22undefined%22%2C%22version%22%3A%221.20.0%22%2C%22visitId%22%3A%22msngr_widget_0ne46%22%7D
+Total=1
+RequestHeaderFile=t84_RequestHeader.txt
+RequestBodyFile=t84_RequestBody.txt
+ResponseHeaderFile=t84_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_77.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

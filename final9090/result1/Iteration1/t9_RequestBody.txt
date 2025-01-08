@@ -1,0 +1,4 @@
+"csrf_token=cbdc20e27c2cda764886be216a7d47146d365b1c%3A1736271306658&login=belkatestit&process_"
+"uuid=&retpath=https%3A%2F%2Fsso.passport.yandex.ru%2Fprepare%3Fuuid%3Dc3af5e2c-34bd-494f-947b-"
+"53b18249df99%26goal%3Dhttps%253A%252F%252Fya.ru%252F%26finish%3Dhttps%253A%252F%252Fmail.yande"
+"x.ru&origin=mail360&check_for_xtokens_for_pictures=1&can_send_push_code=1"

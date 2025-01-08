@@ -1,0 +1,11 @@
+[t262]
+FileName1=t262.htm
+URL1=https://sso.ya.ru/sync?uuid=037bbae1-f3d2-4e7f-8f4e-c99865120144&finish=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D77275
+Total=1
+RequestHeaderFile=t262_RequestHeader.txt
+RequestBodyFile=t262_RequestBody.txt
+ResponseHeaderFile=t262_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_255.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

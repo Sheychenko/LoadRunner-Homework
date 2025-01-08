@@ -1,0 +1,15 @@
+[t118]
+FileName1=t118.json
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=user-dropdown-data
+Total=3
+RequestHeaderFile=t118_RequestHeader.txt
+RequestBodyFile=t118_RequestBody.txt
+ResponseHeaderFile=t118_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_111.xml
+FileName2=t118_cc3eb7227602aea2a356.html
+URL2=https://yastatic.net/partner-code-bundles/1183758/cc3eb7227602aea2a356.js
+FileName3=t118_454b3fa45c64f15c3946.html
+URL3=https://yastatic.net/partner-code-bundles/1183758/454b3fa45c64f15c3946.js
+[ProtocolInfo]
+ProtocolId=QTWeb

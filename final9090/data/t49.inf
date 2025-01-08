@@ -1,0 +1,13 @@
+[t49]
+FileName1=t49.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update
+Total=2
+RequestHeaderFile=t49_RequestHeader.txt
+RequestBodyFile=t49_RequestBody.txt
+ResponseHeaderFile=t49_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_42.xml
+FileName2=t49_784657.gif
+URL2=https://mc.yandex.ru/clmap/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Fretpath%3Dhttps%253A%252F%252Fmail.yandex.ru%26origin%3Dmail360&pointer-click=rn%3A1069085962%3Ax%3A26466%3Ay%3A56172%3At%3A665%3Ap%3APWAAA1A1AFAAAAA2A1AAA1A1AA%3AX%3A591%3AY%3A605&browser-info=u%3A1735901419877300485%3Av%3A1551%3Avf%3Afqngs4ku2ry4ydu78wzu8osbsm7%3Arqnl%3A1%3Ast%3A1735901486&t=gdpr(8-0)ti(1)
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t141]
+FileName1=t141.htm
+URL1=https://static-mon.yandex.net/static/optional.js?pid=yandex_mail&script_key=28543blUKn7nqSkf6QiYtSL17dNPqw&reasure=false
+Total=1
+RequestHeaderFile=t141_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t141_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_134.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

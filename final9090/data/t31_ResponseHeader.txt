@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Accept-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=3600
+Content-Encoding: gzip
+Content-Length: 2586
+Content-Type: text/html
+Date: Fri, 03 Jan 2025 10:50:20 GMT
+ETag: "67655eba-a1a"
+Expires: Fri, 03 Jan 2025 11:50:20 GMT
+Last-Modified: Fri, 20 Dec 2024 12:10:34 GMT
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+
